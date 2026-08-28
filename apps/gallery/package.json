@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "pnpm --filter @abez/icons build && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
