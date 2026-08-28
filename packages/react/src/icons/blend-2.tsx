@@ -1,0 +1,6 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+import { Ref, forwardRef } from "react";
+const Blend2 = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 22 22" ref={ref} {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15.093 7.93a7.16 7.16 0 0 1-7.163 7.163c-.327 0-.644-.02-.951-.072a7.15 7.15 0 0 1-6.212-7.09A7.16 7.16 0 0 1 7.93.766a7.15 7.15 0 0 1 7.091 6.212c.052.307.072.624.072.951" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21.232 14.07a7.16 7.16 0 0 1-7.162 7.163 7.15 7.15 0 0 1-7.092-6.212c.307.052.625.072.952.072a7.157 7.157 0 0 0 7.163-7.163c0-.327-.02-.644-.072-.951a7.15 7.15 0 0 1 6.211 7.09" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.535} d="m13.2 13.17 1.34 1.32M16.116 11l-1.023-1.023M11 16.116l-1.023-1.023" /></svg>;
+const ForwardRef = forwardRef(Blend2);
+export default ForwardRef;

@@ -1,0 +1,4017 @@
+[
+  {
+    "name": "24-support",
+    "file": "24-support.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "3d-cube-scan",
+    "file": "3d-cube-scan.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "3d-rotate",
+    "file": "3d-rotate.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "3d-square",
+    "file": "3d-square.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "3dcube",
+    "file": "3dcube.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "3full",
+    "file": "3full.svg",
+    "category": "Other"
+  },
+  {
+    "name": "3square",
+    "file": "3square.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "activity",
+    "file": "activity.svg",
+    "category": "Business"
+  },
+  {
+    "name": "add",
+    "file": "add.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "add-circle",
+    "file": "add-circle.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "add-square",
+    "file": "add-square.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "additem",
+    "file": "additem.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "airdrop",
+    "file": "airdrop.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "airplane",
+    "file": "airplane.svg",
+    "category": "Car - Linear"
+  },
+  {
+    "name": "airplane-square",
+    "file": "airplane-square.svg",
+    "category": "Car - Linear"
+  },
+  {
+    "name": "airpod",
+    "file": "airpod.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "airpods",
+    "file": "airpods.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "alarm",
+    "file": "alarm.svg",
+    "category": "Security"
+  },
+  {
+    "name": "align-bottom",
+    "file": "align-bottom.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "align-horizontally",
+    "file": "align-horizontally.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "align-left",
+    "file": "align-left.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "align-right",
+    "file": "align-right.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "align-vertically",
+    "file": "align-vertically.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "aquarius",
+    "file": "aquarius.svg",
+    "category": "Astrology"
+  },
+  {
+    "name": "archive",
+    "file": "archive.svg",
+    "category": "Money"
+  },
+  {
+    "name": "archive-add",
+    "file": "archive-add.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "archive-book",
+    "file": "archive-book.svg",
+    "category": "Content"
+  },
+  {
+    "name": "archive-minus",
+    "file": "archive-minus.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "archive-slash",
+    "file": "archive-slash.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "archive-tick",
+    "file": "archive-tick.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "arrange-circle",
+    "file": "arrange-circle.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrange-circle-2",
+    "file": "arrange-circle-2.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrange-square",
+    "file": "arrange-square.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrange-square-2",
+    "file": "arrange-square-2.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow",
+    "file": "arrow.svg",
+    "category": "Location"
+  },
+  {
+    "name": "arrow-2",
+    "file": "arrow-2.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-3",
+    "file": "arrow-3.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-bottom",
+    "file": "arrow-bottom.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-circle-down",
+    "file": "arrow-circle-down.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-circle-left",
+    "file": "arrow-circle-left.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-circle-right",
+    "file": "arrow-circle-right.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-down",
+    "file": "arrow-down.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-left",
+    "file": "arrow-left.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-right",
+    "file": "arrow-right.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-square",
+    "file": "arrow-square.svg",
+    "category": "Location"
+  },
+  {
+    "name": "arrow-square-down",
+    "file": "arrow-square-down.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-square-left",
+    "file": "arrow-square-left.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-square-right",
+    "file": "arrow-square-right.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-square-up",
+    "file": "arrow-square-up.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-swap-horizontal",
+    "file": "arrow-swap-horizontal.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "arrow-up",
+    "file": "arrow-up.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "attach-circle",
+    "file": "attach-circle.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "attach-square",
+    "file": "attach-square.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "audio-square",
+    "file": "audio-square.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "autobrightness",
+    "file": "autobrightness.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "award",
+    "file": "award.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "back-square",
+    "file": "back-square.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "backward",
+    "file": "backward.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "backward-10-seconds",
+    "file": "backward-10-seconds.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "backward-15-seconds",
+    "file": "backward-15-seconds.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "backward-5-seconds",
+    "file": "backward-5-seconds.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "backward-item",
+    "file": "backward-item.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "bag",
+    "file": "bag.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "bag-2",
+    "file": "bag-2.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "bag-cross",
+    "file": "bag-cross.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "bag-happy",
+    "file": "bag-happy.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "bag-tick",
+    "file": "bag-tick.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "bag-tick-2",
+    "file": "bag-tick-2.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "bag-timer",
+    "file": "bag-timer.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "bank",
+    "file": "bank.svg",
+    "category": "Building"
+  },
+  {
+    "name": "barcode",
+    "file": "barcode.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "battery-charging",
+    "file": "battery-charging.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "battery-disable",
+    "file": "battery-disable.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "battery-empty",
+    "file": "battery-empty.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "battery-full",
+    "file": "battery-full.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "bezier",
+    "file": "bezier.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "bill",
+    "file": "bill.svg",
+    "category": "Content"
+  },
+  {
+    "name": "bitcoin-card",
+    "file": "bitcoin-card.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "bitcoin-convert",
+    "file": "bitcoin-convert.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "bitcoin-refresh",
+    "file": "bitcoin-refresh.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "blend",
+    "file": "blend.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "blend-2",
+    "file": "blend-2.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "bluetooth",
+    "file": "bluetooth.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "bluetooth-2",
+    "file": "bluetooth-2.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "bluetooth-circle",
+    "file": "bluetooth-circle.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "bluetooth-rectangle",
+    "file": "bluetooth-rectangle.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "blur",
+    "file": "blur.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "book",
+    "file": "book.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "book-1",
+    "file": "book-1.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "book-saved",
+    "file": "book-saved.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "book-square",
+    "file": "book-square.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "bookmark",
+    "file": "bookmark.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "bookmark-2",
+    "file": "bookmark-2.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "box",
+    "file": "box.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "box-2",
+    "file": "box-2.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "box-add",
+    "file": "box-add.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "box-remove",
+    "file": "box-remove.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "box-search",
+    "file": "box-search.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "box-tick",
+    "file": "box-tick.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "box-time",
+    "file": "box-time.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "briefcase",
+    "file": "briefcase.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "brifecase-cross",
+    "file": "brifecase-cross.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "brifecase-tick",
+    "file": "brifecase-tick.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "brifecase-timer",
+    "file": "brifecase-timer.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "broom",
+    "file": "broom.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "brush",
+    "file": "brush.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "bubble",
+    "file": "bubble.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "bucket-circle",
+    "file": "bucket-circle.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "bucket-square",
+    "file": "bucket-square.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "building",
+    "file": "building.svg",
+    "category": "Building"
+  },
+  {
+    "name": "building-3",
+    "file": "building-3.svg",
+    "category": "Building"
+  },
+  {
+    "name": "building-4",
+    "file": "building-4.svg",
+    "category": "Building"
+  },
+  {
+    "name": "buildings",
+    "file": "buildings.svg",
+    "category": "Building"
+  },
+  {
+    "name": "buildings-2",
+    "file": "buildings-2.svg",
+    "category": "Building"
+  },
+  {
+    "name": "buliding",
+    "file": "buliding.svg",
+    "category": "Building"
+  },
+  {
+    "name": "bus",
+    "file": "bus.svg",
+    "category": "Car - Linear"
+  },
+  {
+    "name": "buy-crypto",
+    "file": "buy-crypto.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "cake",
+    "file": "cake.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "calculator",
+    "file": "calculator.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "calendar",
+    "file": "calendar.svg",
+    "category": "Time"
+  },
+  {
+    "name": "calendar-2",
+    "file": "calendar-2.svg",
+    "category": "Time"
+  },
+  {
+    "name": "calendar-add",
+    "file": "calendar-add.svg",
+    "category": "Time"
+  },
+  {
+    "name": "calendar-circle",
+    "file": "calendar-circle.svg",
+    "category": "Time"
+  },
+  {
+    "name": "calendar-edit",
+    "file": "calendar-edit.svg",
+    "category": "Time"
+  },
+  {
+    "name": "calendar-remove",
+    "file": "calendar-remove.svg",
+    "category": "Time"
+  },
+  {
+    "name": "calendar-search",
+    "file": "calendar-search.svg",
+    "category": "Time"
+  },
+  {
+    "name": "calendar-tick",
+    "file": "calendar-tick.svg",
+    "category": "Time"
+  },
+  {
+    "name": "call",
+    "file": "call.svg",
+    "category": "Call"
+  },
+  {
+    "name": "call-add",
+    "file": "call-add.svg",
+    "category": "Call"
+  },
+  {
+    "name": "call-calling",
+    "file": "call-calling.svg",
+    "category": "Call"
+  },
+  {
+    "name": "call-incoming",
+    "file": "call-incoming.svg",
+    "category": "Call"
+  },
+  {
+    "name": "call-minus",
+    "file": "call-minus.svg",
+    "category": "Call"
+  },
+  {
+    "name": "call-outgoing",
+    "file": "call-outgoing.svg",
+    "category": "Call"
+  },
+  {
+    "name": "call-received",
+    "file": "call-received.svg",
+    "category": "Call"
+  },
+  {
+    "name": "call-remove",
+    "file": "call-remove.svg",
+    "category": "Call"
+  },
+  {
+    "name": "call-slash",
+    "file": "call-slash.svg",
+    "category": "Call"
+  },
+  {
+    "name": "camera",
+    "file": "camera.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "camera-slash",
+    "file": "camera-slash.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "candle",
+    "file": "candle.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "candle-2",
+    "file": "candle-2.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "car",
+    "file": "car.svg",
+    "category": "Car - Linear"
+  },
+  {
+    "name": "card",
+    "file": "card.svg",
+    "category": "Money"
+  },
+  {
+    "name": "card-add",
+    "file": "card-add.svg",
+    "category": "Money"
+  },
+  {
+    "name": "card-coin",
+    "file": "card-coin.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "card-edit",
+    "file": "card-edit.svg",
+    "category": "Money"
+  },
+  {
+    "name": "card-pos",
+    "file": "card-pos.svg",
+    "category": "Money"
+  },
+  {
+    "name": "card-receive",
+    "file": "card-receive.svg",
+    "category": "Money"
+  },
+  {
+    "name": "card-remove",
+    "file": "card-remove.svg",
+    "category": "Money"
+  },
+  {
+    "name": "card-send",
+    "file": "card-send.svg",
+    "category": "Money"
+  },
+  {
+    "name": "card-slash",
+    "file": "card-slash.svg",
+    "category": "Money"
+  },
+  {
+    "name": "card-tick",
+    "file": "card-tick.svg",
+    "category": "Money"
+  },
+  {
+    "name": "cards",
+    "file": "cards.svg",
+    "category": "Money"
+  },
+  {
+    "name": "category",
+    "file": "category.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "category-2",
+    "file": "category-2.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "cd",
+    "file": "cd.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "chart",
+    "file": "chart.svg",
+    "category": "Business"
+  },
+  {
+    "name": "chart-2",
+    "file": "chart-2.svg",
+    "category": "Business"
+  },
+  {
+    "name": "chart-square",
+    "file": "chart-square.svg",
+    "category": "Money"
+  },
+  {
+    "name": "chart-success",
+    "file": "chart-success.svg",
+    "category": "Business"
+  },
+  {
+    "name": "check",
+    "file": "check.svg",
+    "category": "Security"
+  },
+  {
+    "name": "chrome",
+    "file": "chrome.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "clipboard",
+    "file": "clipboard.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "clipboard-close",
+    "file": "clipboard-close.svg",
+    "category": "Content"
+  },
+  {
+    "name": "clipboard-export",
+    "file": "clipboard-export.svg",
+    "category": "Content"
+  },
+  {
+    "name": "clipboard-import",
+    "file": "clipboard-import.svg",
+    "category": "Content"
+  },
+  {
+    "name": "clipboard-text",
+    "file": "clipboard-text.svg",
+    "category": "Content"
+  },
+  {
+    "name": "clipboard-tick",
+    "file": "clipboard-tick.svg",
+    "category": "Content"
+  },
+  {
+    "name": "clock",
+    "file": "clock.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "close-circle",
+    "file": "close-circle.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "close-square",
+    "file": "close-square.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "cloud",
+    "file": "cloud.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "cloud-add",
+    "file": "cloud-add.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "cloud-change",
+    "file": "cloud-change.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "cloud-connection",
+    "file": "cloud-connection.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "cloud-cross",
+    "file": "cloud-cross.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "cloud-drizzle",
+    "file": "cloud-drizzle.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "cloud-fog",
+    "file": "cloud-fog.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "cloud-lightning",
+    "file": "cloud-lightning.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "cloud-minus",
+    "file": "cloud-minus.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "cloud-notif",
+    "file": "cloud-notif.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "cloud-plus",
+    "file": "cloud-plus.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "cloud-remove",
+    "file": "cloud-remove.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "cloud-snow",
+    "file": "cloud-snow.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "cloud-sunny",
+    "file": "cloud-sunny.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "code",
+    "file": "code.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "code-circle",
+    "file": "code-circle.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "coffee",
+    "file": "coffee.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "coin",
+    "file": "coin.svg",
+    "category": "Money"
+  },
+  {
+    "name": "color-swatch",
+    "file": "color-swatch.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "colorfilter",
+    "file": "colorfilter.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "colors-square",
+    "file": "colors-square.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "command",
+    "file": "command.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "command-square",
+    "file": "command-square.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "component",
+    "file": "component.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "computing",
+    "file": "computing.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "convert",
+    "file": "convert.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "convert-3d-cube",
+    "file": "convert-3d-cube.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "convertshape",
+    "file": "convertshape.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "convertshape-2",
+    "file": "convertshape-2.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "copy",
+    "file": "copy.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "copy-success",
+    "file": "copy-success.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "copyright",
+    "file": "copyright.svg",
+    "category": "Content"
+  },
+  {
+    "name": "courthouse",
+    "file": "courthouse.svg",
+    "category": "Building"
+  },
+  {
+    "name": "cpu",
+    "file": "cpu.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "cpu-charge",
+    "file": "cpu-charge.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "cpu-setting",
+    "file": "cpu-setting.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "creative-commons",
+    "file": "creative-commons.svg",
+    "category": "Content"
+  },
+  {
+    "name": "crop",
+    "file": "crop.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "crown",
+    "file": "crown.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "cup",
+    "file": "cup.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "danger",
+    "file": "danger.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "data",
+    "file": "data.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "data-2",
+    "file": "data-2.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "designtools",
+    "file": "designtools.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "device-message",
+    "file": "device-message.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "devices",
+    "file": "devices.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "diagram",
+    "file": "diagram.svg",
+    "category": "Business"
+  },
+  {
+    "name": "diamonds",
+    "file": "diamonds.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "direct",
+    "file": "direct.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "direct-down",
+    "file": "direct-down.svg",
+    "category": "Location"
+  },
+  {
+    "name": "direct-inbox",
+    "file": "direct-inbox.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "direct-left",
+    "file": "direct-left.svg",
+    "category": "Location"
+  },
+  {
+    "name": "direct-normal",
+    "file": "direct-normal.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "direct-notification",
+    "file": "direct-notification.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "direct-right",
+    "file": "direct-right.svg",
+    "category": "Location"
+  },
+  {
+    "name": "direct-send",
+    "file": "direct-send.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "direct-up",
+    "file": "direct-up.svg",
+    "category": "Location"
+  },
+  {
+    "name": "directbox-default",
+    "file": "directbox-default.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "directbox-notif",
+    "file": "directbox-notif.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "directbox-receive",
+    "file": "directbox-receive.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "directbox-send",
+    "file": "directbox-send.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "discount-circle",
+    "file": "discount-circle.svg",
+    "category": "Money"
+  },
+  {
+    "name": "discount-shape",
+    "file": "discount-shape.svg",
+    "category": "Money"
+  },
+  {
+    "name": "discover",
+    "file": "discover.svg",
+    "category": "Location"
+  },
+  {
+    "name": "dislike",
+    "file": "dislike.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "document",
+    "file": "document.svg",
+    "category": "Money"
+  },
+  {
+    "name": "document-cloud",
+    "file": "document-cloud.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-code",
+    "file": "document-code.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "document-code-2",
+    "file": "document-code-2.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "document-copy",
+    "file": "document-copy.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-download",
+    "file": "document-download.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-favorite",
+    "file": "document-favorite.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-filter",
+    "file": "document-filter.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-forward",
+    "file": "document-forward.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-like",
+    "file": "document-like.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-normal",
+    "file": "document-normal.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-previous",
+    "file": "document-previous.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-sketch",
+    "file": "document-sketch.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-text",
+    "file": "document-text.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-text-1",
+    "file": "document-text-1.svg",
+    "category": "Content"
+  },
+  {
+    "name": "document-upload",
+    "file": "document-upload.svg",
+    "category": "Content"
+  },
+  {
+    "name": "dollar-circle",
+    "file": "dollar-circle.svg",
+    "category": "Money"
+  },
+  {
+    "name": "dollar-square",
+    "file": "dollar-square.svg",
+    "category": "Money"
+  },
+  {
+    "name": "driver",
+    "file": "driver.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "driver-2",
+    "file": "driver-2.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "driver-refresh",
+    "file": "driver-refresh.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "driving",
+    "file": "driving.svg",
+    "category": "Car - Linear"
+  },
+  {
+    "name": "drop",
+    "file": "drop.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "edit",
+    "file": "edit.svg",
+    "category": "Content"
+  },
+  {
+    "name": "edit-2",
+    "file": "edit-2.svg",
+    "category": "Content"
+  },
+  {
+    "name": "electricity",
+    "file": "electricity.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "element-1",
+    "file": "element-1.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "element-2",
+    "file": "element-2.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "element-3",
+    "file": "element-3.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "element-4",
+    "file": "element-4.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "element-equal",
+    "file": "element-equal.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "element-plus",
+    "file": "element-plus.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "emoji-happy",
+    "file": "emoji-happy.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "emoji-normal",
+    "file": "emoji-normal.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "emoji-sad",
+    "file": "emoji-sad.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "empty-wallet",
+    "file": "empty-wallet.svg",
+    "category": "Money"
+  },
+  {
+    "name": "empty-wallet-add",
+    "file": "empty-wallet-add.svg",
+    "category": "Money"
+  },
+  {
+    "name": "empty-wallet-change",
+    "file": "empty-wallet-change.svg",
+    "category": "Money"
+  },
+  {
+    "name": "empty-wallet-remove",
+    "file": "empty-wallet-remove.svg",
+    "category": "Money"
+  },
+  {
+    "name": "empty-wallet-tick",
+    "file": "empty-wallet-tick.svg",
+    "category": "Money"
+  },
+  {
+    "name": "empty-wallet-time",
+    "file": "empty-wallet-time.svg",
+    "category": "Money"
+  },
+  {
+    "name": "eraser",
+    "file": "eraser.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "export",
+    "file": "export.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "external-drive",
+    "file": "external-drive.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "eye",
+    "file": "eye.svg",
+    "category": "Security"
+  },
+  {
+    "name": "eye-slash",
+    "file": "eye-slash.svg",
+    "category": "Security"
+  },
+  {
+    "name": "fatrows",
+    "file": "fatrows.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "favorite-chart",
+    "file": "favorite-chart.svg",
+    "category": "Business"
+  },
+  {
+    "name": "filter",
+    "file": "filter.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "filter-add",
+    "file": "filter-add.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "filter-edit",
+    "file": "filter-edit.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "filter-remove",
+    "file": "filter-remove.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "filter-search",
+    "file": "filter-search.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "filter-square",
+    "file": "filter-square.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "filter-tick",
+    "file": "filter-tick.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "finger-cricle",
+    "file": "finger-cricle.svg",
+    "category": "Security"
+  },
+  {
+    "name": "finger-scan",
+    "file": "finger-scan.svg",
+    "category": "Security"
+  },
+  {
+    "name": "firstline",
+    "file": "firstline.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "flag",
+    "file": "flag.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "flag-2",
+    "file": "flag-2.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "flash",
+    "file": "flash.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "flash-circle",
+    "file": "flash-circle.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "flash-slash",
+    "file": "flash-slash.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "folder",
+    "file": "folder.svg",
+    "category": "Files"
+  },
+  {
+    "name": "folder-2",
+    "file": "folder-2.svg",
+    "category": "Files"
+  },
+  {
+    "name": "folder-add",
+    "file": "folder-add.svg",
+    "category": "Files"
+  },
+  {
+    "name": "folder-cloud",
+    "file": "folder-cloud.svg",
+    "category": "Files"
+  },
+  {
+    "name": "folder-connection",
+    "file": "folder-connection.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "folder-cross",
+    "file": "folder-cross.svg",
+    "category": "Files"
+  },
+  {
+    "name": "folder-favorite",
+    "file": "folder-favorite.svg",
+    "category": "Files"
+  },
+  {
+    "name": "folder-minus",
+    "file": "folder-minus.svg",
+    "category": "Files"
+  },
+  {
+    "name": "folder-open",
+    "file": "folder-open.svg",
+    "category": "Files"
+  },
+  {
+    "name": "format-circle",
+    "file": "format-circle.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "format-square",
+    "file": "format-square.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "forward",
+    "file": "forward.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "forward-10-seconds",
+    "file": "forward-10-seconds.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "forward-15-seconds",
+    "file": "forward-15-seconds.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "forward-5-seconds",
+    "file": "forward-5-seconds.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "forward-item",
+    "file": "forward-item.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "forward-square",
+    "file": "forward-square.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "frame",
+    "file": "frame.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "gallery",
+    "file": "gallery.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "gallery-add",
+    "file": "gallery-add.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "gallery-edit",
+    "file": "gallery-edit.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "gallery-export",
+    "file": "gallery-export.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "gallery-favorite",
+    "file": "gallery-favorite.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "gallery-import",
+    "file": "gallery-import.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "gallery-remove",
+    "file": "gallery-remove.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "gallery-slash",
+    "file": "gallery-slash.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "gallery-tick",
+    "file": "gallery-tick.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "game",
+    "file": "game.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "gameboy",
+    "file": "gameboy.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "gas-station",
+    "file": "gas-station.svg",
+    "category": "Car - Linear"
+  },
+  {
+    "name": "gemini",
+    "file": "gemini.svg",
+    "category": "Astrology"
+  },
+  {
+    "name": "gemini-2",
+    "file": "gemini-2.svg",
+    "category": "Astrology"
+  },
+  {
+    "name": "ghost",
+    "file": "ghost.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "gift",
+    "file": "gift.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "glass",
+    "file": "glass.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "global",
+    "file": "global.svg",
+    "category": "Location"
+  },
+  {
+    "name": "global-edit",
+    "file": "global-edit.svg",
+    "category": "Location"
+  },
+  {
+    "name": "global-refresh",
+    "file": "global-refresh.svg",
+    "category": "Location"
+  },
+  {
+    "name": "global-search",
+    "file": "global-search.svg",
+    "category": "Location"
+  },
+  {
+    "name": "gps",
+    "file": "gps.svg",
+    "category": "Location"
+  },
+  {
+    "name": "gps-slash",
+    "file": "gps-slash.svg",
+    "category": "Location"
+  },
+  {
+    "name": "grammerly",
+    "file": "grammerly.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "graph",
+    "file": "graph.svg",
+    "category": "Business"
+  },
+  {
+    "name": "grid-1",
+    "file": "grid-1.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-2",
+    "file": "grid-2.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-3",
+    "file": "grid-3.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-4",
+    "file": "grid-4.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-5",
+    "file": "grid-5.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-6",
+    "file": "grid-6.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-7",
+    "file": "grid-7.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-8",
+    "file": "grid-8.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-9",
+    "file": "grid-9.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-edit",
+    "file": "grid-edit.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-eraser",
+    "file": "grid-eraser.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "grid-lock",
+    "file": "grid-lock.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "group",
+    "file": "group.svg",
+    "category": "Money"
+  },
+  {
+    "name": "happyemoji",
+    "file": "happyemoji.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "hashtag",
+    "file": "hashtag.svg",
+    "category": "Business"
+  },
+  {
+    "name": "hashtag-down",
+    "file": "hashtag-down.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "hashtag-up",
+    "file": "hashtag-up.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "headphone",
+    "file": "headphone.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "headphones",
+    "file": "headphones.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "health",
+    "file": "health.svg",
+    "category": "Business"
+  },
+  {
+    "name": "heart",
+    "file": "heart.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "heart-add",
+    "file": "heart-add.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "heart-circle",
+    "file": "heart-circle.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "heart-edit",
+    "file": "heart-edit.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "heart-remove",
+    "file": "heart-remove.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "heart-search",
+    "file": "heart-search.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "heart-slash",
+    "file": "heart-slash.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "heart-tick",
+    "file": "heart-tick.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "hierarchy",
+    "file": "hierarchy.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "hierarchy-2",
+    "file": "hierarchy-2.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "hierarchy-3",
+    "file": "hierarchy-3.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "hierarchy-square",
+    "file": "hierarchy-square.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "hierarchy-square-2",
+    "file": "hierarchy-square-2.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "hierarchy-square-3",
+    "file": "hierarchy-square-3.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "home",
+    "file": "home.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "home-2",
+    "file": "home-2.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "home-hashtag",
+    "file": "home-hashtag.svg",
+    "category": "Business"
+  },
+  {
+    "name": "home-trend-down",
+    "file": "home-trend-down.svg",
+    "category": "Business"
+  },
+  {
+    "name": "home-trend-up",
+    "file": "home-trend-up.svg",
+    "category": "Business"
+  },
+  {
+    "name": "home-wifi",
+    "file": "home-wifi.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "hospital",
+    "file": "hospital.svg",
+    "category": "Building"
+  },
+  {
+    "name": "house",
+    "file": "house.svg",
+    "category": "Building"
+  },
+  {
+    "name": "house-2",
+    "file": "house-2.svg",
+    "category": "Building"
+  },
+  {
+    "name": "image",
+    "file": "image.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "import",
+    "file": "import.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "info-circle",
+    "file": "info-circle.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "information",
+    "file": "information.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "instagram",
+    "file": "instagram.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "judge",
+    "file": "judge.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "kanban",
+    "file": "kanban.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "key",
+    "file": "key.svg",
+    "category": "Security"
+  },
+  {
+    "name": "key-square",
+    "file": "key-square.svg",
+    "category": "Security"
+  },
+  {
+    "name": "keyboard",
+    "file": "keyboard.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "keyboard-open",
+    "file": "keyboard-open.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "lamp",
+    "file": "lamp.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "lamp-charge",
+    "file": "lamp-charge.svg",
+    "category": "Notifications"
+  },
+  {
+    "name": "lamp-on",
+    "file": "lamp-on.svg",
+    "category": "Notifications"
+  },
+  {
+    "name": "lamp-slash",
+    "file": "lamp-slash.svg",
+    "category": "Notifications"
+  },
+  {
+    "name": "language-circle",
+    "file": "language-circle.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "language-square",
+    "file": "language-square.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "layer",
+    "file": "layer.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "level",
+    "file": "level.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "lifebuoy",
+    "file": "lifebuoy.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "like",
+    "file": "like.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "like-dislike",
+    "file": "like-dislike.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "like-shapes",
+    "file": "like-shapes.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "like-tag",
+    "file": "like-tag.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "link",
+    "file": "link.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "link-2",
+    "file": "link-2.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "link-circle",
+    "file": "link-circle.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "link-square",
+    "file": "link-square.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "location",
+    "file": "location.svg",
+    "category": "Location"
+  },
+  {
+    "name": "location-add",
+    "file": "location-add.svg",
+    "category": "Location"
+  },
+  {
+    "name": "location-cross",
+    "file": "location-cross.svg",
+    "category": "Location"
+  },
+  {
+    "name": "location-minus",
+    "file": "location-minus.svg",
+    "category": "Location"
+  },
+  {
+    "name": "location-slash",
+    "file": "location-slash.svg",
+    "category": "Location"
+  },
+  {
+    "name": "location-tick",
+    "file": "location-tick.svg",
+    "category": "Location"
+  },
+  {
+    "name": "lock",
+    "file": "lock.svg",
+    "category": "Security"
+  },
+  {
+    "name": "lock-1",
+    "file": "lock-1.svg",
+    "category": "Security"
+  },
+  {
+    "name": "lock-circle",
+    "file": "lock-circle.svg",
+    "category": "Security"
+  },
+  {
+    "name": "lock-slash",
+    "file": "lock-slash.svg",
+    "category": "Security"
+  },
+  {
+    "name": "login",
+    "file": "login.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "logout",
+    "file": "logout.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "lovely",
+    "file": "lovely.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "magic-star",
+    "file": "magic-star.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "magicpen",
+    "file": "magicpen.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "main-component",
+    "file": "main-component.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "man",
+    "file": "man.svg",
+    "category": "Astrology"
+  },
+  {
+    "name": "map",
+    "file": "map.svg",
+    "category": "Location"
+  },
+  {
+    "name": "mask",
+    "file": "mask.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "math",
+    "file": "math.svg",
+    "category": "Money"
+  },
+  {
+    "name": "maximize",
+    "file": "maximize.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "maximize-1",
+    "file": "maximize-1.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "maximize-2",
+    "file": "maximize-2.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "maximize-3",
+    "file": "maximize-3.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "maximize-4",
+    "file": "maximize-4.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "maximize-circle",
+    "file": "maximize-circle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "medal",
+    "file": "medal.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "medal-star",
+    "file": "medal-star.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "menu",
+    "file": "menu.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "menu-board",
+    "file": "menu-board.svg",
+    "category": "Content"
+  },
+  {
+    "name": "message",
+    "file": "message.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-2",
+    "file": "message-2.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-add",
+    "file": "message-add.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-circle",
+    "file": "message-circle.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-edit",
+    "file": "message-edit.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-favorite",
+    "file": "message-favorite.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-minus",
+    "file": "message-minus.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-notif",
+    "file": "message-notif.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-programming",
+    "file": "message-programming.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "message-question",
+    "file": "message-question.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "message-remove",
+    "file": "message-remove.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-search",
+    "file": "message-search.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-square",
+    "file": "message-square.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-text",
+    "file": "message-text.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-tick",
+    "file": "message-tick.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "message-time",
+    "file": "message-time.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "messages",
+    "file": "messages.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "messages-2",
+    "file": "messages-2.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "messages-3",
+    "file": "messages-3.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "microphone",
+    "file": "microphone.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "microphone-2",
+    "file": "microphone-2.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "microphone-slash",
+    "file": "microphone-slash.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "microphone-slash-1",
+    "file": "microphone-slash-1.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "microscope",
+    "file": "microscope.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "milk",
+    "file": "milk.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "mini-music-sqaure",
+    "file": "mini-music-sqaure.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "minus",
+    "file": "minus.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "minus-cirlce",
+    "file": "minus-cirlce.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "minus-square",
+    "file": "minus-square.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "mirror",
+    "file": "mirror.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "mirroring-screen",
+    "file": "mirroring-screen.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "mobile",
+    "file": "mobile.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "mobile-programming",
+    "file": "mobile-programming.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "money",
+    "file": "money.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-2",
+    "file": "money-2.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-3",
+    "file": "money-3.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-4",
+    "file": "money-4.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-add",
+    "file": "money-add.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-change",
+    "file": "money-change.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-forbidden",
+    "file": "money-forbidden.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-recive",
+    "file": "money-recive.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-remove",
+    "file": "money-remove.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-send",
+    "file": "money-send.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-tick",
+    "file": "money-tick.svg",
+    "category": "Money"
+  },
+  {
+    "name": "money-time",
+    "file": "money-time.svg",
+    "category": "Money"
+  },
+  {
+    "name": "moneys",
+    "file": "moneys.svg",
+    "category": "Money"
+  },
+  {
+    "name": "monitor",
+    "file": "monitor.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "monitor-mobbile",
+    "file": "monitor-mobbile.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "monitor-recorder",
+    "file": "monitor-recorder.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "moon",
+    "file": "moon.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "more",
+    "file": "more.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "more-2",
+    "file": "more-2.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "more-circle",
+    "file": "more-circle.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "more-square",
+    "file": "more-square.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "mouse",
+    "file": "mouse.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "mouse-circle",
+    "file": "mouse-circle.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "mouse-square",
+    "file": "mouse-square.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "music",
+    "file": "music.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "music-circle",
+    "file": "music-circle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "music-dashboard",
+    "file": "music-dashboard.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "music-filter",
+    "file": "music-filter.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "music-library-2",
+    "file": "music-library-2.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "music-play",
+    "file": "music-play.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "music-playlist",
+    "file": "music-playlist.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "music-square",
+    "file": "music-square.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "music-square-add",
+    "file": "music-square-add.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "music-square-remove",
+    "file": "music-square-remove.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "music-square-search",
+    "file": "music-square-search.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "musicnote",
+    "file": "musicnote.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "next",
+    "file": "next.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "note",
+    "file": "note.svg",
+    "category": "Content"
+  },
+  {
+    "name": "note-1",
+    "file": "note-1.svg",
+    "category": "Content"
+  },
+  {
+    "name": "note-2",
+    "file": "note-2.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "note-add",
+    "file": "note-add.svg",
+    "category": "Content"
+  },
+  {
+    "name": "note-favorite",
+    "file": "note-favorite.svg",
+    "category": "Content"
+  },
+  {
+    "name": "note-remove",
+    "file": "note-remove.svg",
+    "category": "Content"
+  },
+  {
+    "name": "note-square",
+    "file": "note-square.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "note-text",
+    "file": "note-text.svg",
+    "category": "Content"
+  },
+  {
+    "name": "notification",
+    "file": "notification.svg",
+    "category": "Notifications"
+  },
+  {
+    "name": "notification-bing",
+    "file": "notification-bing.svg",
+    "category": "Notifications"
+  },
+  {
+    "name": "notification-circle",
+    "file": "notification-circle.svg",
+    "category": "Notifications"
+  },
+  {
+    "name": "notification-favorite",
+    "file": "notification-favorite.svg",
+    "category": "Notifications"
+  },
+  {
+    "name": "notification-status",
+    "file": "notification-status.svg",
+    "category": "Notifications"
+  },
+  {
+    "name": "omega-circle",
+    "file": "omega-circle.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "omega-square",
+    "file": "omega-square.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "paintbucket",
+    "file": "paintbucket.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "paperclip",
+    "file": "paperclip.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "paperclip-2",
+    "file": "paperclip-2.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "password-check",
+    "file": "password-check.svg",
+    "category": "Security"
+  },
+  {
+    "name": "path",
+    "file": "path.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "path-2",
+    "file": "path-2.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "path-square",
+    "file": "path-square.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "pause",
+    "file": "pause.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "pause-circle",
+    "file": "pause-circle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "pen-add",
+    "file": "pen-add.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "pen-close",
+    "file": "pen-close.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "pen-remove",
+    "file": "pen-remove.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "pen-tool",
+    "file": "pen-tool.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "pen-tool-2",
+    "file": "pen-tool-2.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "people",
+    "file": "people.svg",
+    "category": "Users"
+  },
+  {
+    "name": "percentage-square",
+    "file": "percentage-square.svg",
+    "category": "Money"
+  },
+  {
+    "name": "personalcard",
+    "file": "personalcard.svg",
+    "category": "Business"
+  },
+  {
+    "name": "pet",
+    "file": "pet.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "pharagraphspacing",
+    "file": "pharagraphspacing.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "picture-frame",
+    "file": "picture-frame.svg",
+    "category": "Location"
+  },
+  {
+    "name": "play",
+    "file": "play.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "play-add",
+    "file": "play-add.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "play-circle",
+    "file": "play-circle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "play-cricle",
+    "file": "play-cricle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "play-remove",
+    "file": "play-remove.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "presention-chart",
+    "file": "presention-chart.svg",
+    "category": "Business"
+  },
+  {
+    "name": "previous",
+    "file": "previous.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "printer",
+    "file": "printer.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "printer-slash",
+    "file": "printer-slash.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "profile",
+    "file": "profile.svg",
+    "category": "Users"
+  },
+  {
+    "name": "profile-2user",
+    "file": "profile-2user.svg",
+    "category": "Users"
+  },
+  {
+    "name": "profile-add",
+    "file": "profile-add.svg",
+    "category": "Users"
+  },
+  {
+    "name": "profile-circle",
+    "file": "profile-circle.svg",
+    "category": "Users"
+  },
+  {
+    "name": "profile-delete",
+    "file": "profile-delete.svg",
+    "category": "Users"
+  },
+  {
+    "name": "profile-remove",
+    "file": "profile-remove.svg",
+    "category": "Users"
+  },
+  {
+    "name": "profile-tick",
+    "file": "profile-tick.svg",
+    "category": "Users"
+  },
+  {
+    "name": "programming-arrow",
+    "file": "programming-arrow.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "programming-arrows",
+    "file": "programming-arrows.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "quote-down",
+    "file": "quote-down.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "quote-down-circle",
+    "file": "quote-down-circle.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "quote-down-square",
+    "file": "quote-down-square.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "quote-up",
+    "file": "quote-up.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "quote-up-circle",
+    "file": "quote-up-circle.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "quote-up-square",
+    "file": "quote-up-square.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "radar",
+    "file": "radar.svg",
+    "category": "Location"
+  },
+  {
+    "name": "radar-2",
+    "file": "radar-2.svg",
+    "category": "Location"
+  },
+  {
+    "name": "radio",
+    "file": "radio.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "ram",
+    "file": "ram.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "ram-2",
+    "file": "ram-2.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "ranking",
+    "file": "ranking.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "receipt",
+    "file": "receipt.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receipt-2",
+    "file": "receipt-2.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receipt-add",
+    "file": "receipt-add.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receipt-discount",
+    "file": "receipt-discount.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receipt-disscount",
+    "file": "receipt-disscount.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receipt-edit",
+    "file": "receipt-edit.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receipt-item",
+    "file": "receipt-item.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receipt-minus",
+    "file": "receipt-minus.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receipt-search",
+    "file": "receipt-search.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receipt-square",
+    "file": "receipt-square.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "receipt-text",
+    "file": "receipt-text.svg",
+    "category": "Money"
+  },
+  {
+    "name": "receive-square",
+    "file": "receive-square.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "receive-square-2",
+    "file": "receive-square-2.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "received",
+    "file": "received.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "record",
+    "file": "record.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "record-circle",
+    "file": "record-circle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "recovery-convert",
+    "file": "recovery-convert.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "redo",
+    "file": "redo.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "refresh",
+    "file": "refresh.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "refresh-2",
+    "file": "refresh-2.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "refresh-circle",
+    "file": "refresh-circle.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "refresh-left-square",
+    "file": "refresh-left-square.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "refresh-right-square",
+    "file": "refresh-right-square.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "refresh-square-2",
+    "file": "refresh-square-2.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "repeat",
+    "file": "repeat.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "repeat-circle",
+    "file": "repeat-circle.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "repeate-music",
+    "file": "repeate-music.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "repeate-one",
+    "file": "repeate-one.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "reserve",
+    "file": "reserve.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "rotate-left",
+    "file": "rotate-left.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "rotate-right",
+    "file": "rotate-right.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "route-square",
+    "file": "route-square.svg",
+    "category": "Location"
+  },
+  {
+    "name": "routing",
+    "file": "routing.svg",
+    "category": "Location"
+  },
+  {
+    "name": "routing-2",
+    "file": "routing-2.svg",
+    "category": "Location"
+  },
+  {
+    "name": "row-horizontal",
+    "file": "row-horizontal.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "row-vertical",
+    "file": "row-vertical.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "ruler",
+    "file": "ruler.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "ruler-pen",
+    "file": "ruler-pen.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "safe-home",
+    "file": "safe-home.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "sagittarius",
+    "file": "sagittarius.svg",
+    "category": "Astrology"
+  },
+  {
+    "name": "save-2",
+    "file": "save-2.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "save-add",
+    "file": "save-add.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "save-minus",
+    "file": "save-minus.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "save-remove",
+    "file": "save-remove.svg",
+    "category": "Archive"
+  },
+  {
+    "name": "scan",
+    "file": "scan.svg",
+    "category": "Security"
+  },
+  {
+    "name": "scan-barcode",
+    "file": "scan-barcode.svg",
+    "category": "Security"
+  },
+  {
+    "name": "scanner",
+    "file": "scanner.svg",
+    "category": "Security"
+  },
+  {
+    "name": "scanning",
+    "file": "scanning.svg",
+    "category": "Security"
+  },
+  {
+    "name": "scissor",
+    "file": "scissor.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "screenmirroring",
+    "file": "screenmirroring.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "scroll",
+    "file": "scroll.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "search-favorite",
+    "file": "search-favorite.svg",
+    "category": "Search"
+  },
+  {
+    "name": "search-normal",
+    "file": "search-normal.svg",
+    "category": "Search"
+  },
+  {
+    "name": "search-status",
+    "file": "search-status.svg",
+    "category": "Search"
+  },
+  {
+    "name": "search-zoom-in",
+    "file": "search-zoom-in.svg",
+    "category": "Search"
+  },
+  {
+    "name": "search-zoom-out",
+    "file": "search-zoom-out.svg",
+    "category": "Search"
+  },
+  {
+    "name": "security",
+    "file": "security.svg",
+    "category": "Security"
+  },
+  {
+    "name": "security-card",
+    "file": "security-card.svg",
+    "category": "Money"
+  },
+  {
+    "name": "security-safe",
+    "file": "security-safe.svg",
+    "category": "Security"
+  },
+  {
+    "name": "security-time",
+    "file": "security-time.svg",
+    "category": "Time"
+  },
+  {
+    "name": "security-user",
+    "file": "security-user.svg",
+    "category": "Security"
+  },
+  {
+    "name": "send",
+    "file": "send.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "send-2",
+    "file": "send-2.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "send-sqaure-2",
+    "file": "send-sqaure-2.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "send-square",
+    "file": "send-square.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "setting",
+    "file": "setting.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "setting-2",
+    "file": "setting-2.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "setting-3",
+    "file": "setting-3.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "setting-4",
+    "file": "setting-4.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "setting-5",
+    "file": "setting-5.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "settings",
+    "file": "settings.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "shapes",
+    "file": "shapes.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "share",
+    "file": "share.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "shield",
+    "file": "shield.svg",
+    "category": "Security"
+  },
+  {
+    "name": "shield-cross",
+    "file": "shield-cross.svg",
+    "category": "Security"
+  },
+  {
+    "name": "shield-search",
+    "file": "shield-search.svg",
+    "category": "Security"
+  },
+  {
+    "name": "shield-security",
+    "file": "shield-security.svg",
+    "category": "Security"
+  },
+  {
+    "name": "shield-slash",
+    "file": "shield-slash.svg",
+    "category": "Security"
+  },
+  {
+    "name": "shield-tick",
+    "file": "shield-tick.svg",
+    "category": "Security"
+  },
+  {
+    "name": "ship",
+    "file": "ship.svg",
+    "category": "Car - Linear"
+  },
+  {
+    "name": "shop",
+    "file": "shop.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "shop-add",
+    "file": "shop-add.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "shop-remove",
+    "file": "shop-remove.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "shopping-bag",
+    "file": "shopping-bag.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "shopping-cart",
+    "file": "shopping-cart.svg",
+    "category": "Shop"
+  },
+  {
+    "name": "sidebar-bottom",
+    "file": "sidebar-bottom.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "sidebar-left",
+    "file": "sidebar-left.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "sidebar-right",
+    "file": "sidebar-right.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "sidebar-top",
+    "file": "sidebar-top.svg",
+    "category": "Programing"
+  },
+  {
+    "name": "signpost",
+    "file": "signpost.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "simcard",
+    "file": "simcard.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "simcard-2",
+    "file": "simcard-2.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "size",
+    "file": "size.svg",
+    "category": "Design, Tools"
+  },
+  {
+    "name": "slash",
+    "file": "slash.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "slider",
+    "file": "slider.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "slider-horizontal",
+    "file": "slider-horizontal.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "slider-horizontal-1",
+    "file": "slider-horizontal-1.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "slider-vertical",
+    "file": "slider-vertical.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "slider-vertical-1",
+    "file": "slider-vertical-1.svg",
+    "category": "Grid"
+  },
+  {
+    "name": "smallcaps",
+    "file": "smallcaps.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "smart-car",
+    "file": "smart-car.svg",
+    "category": "Car - Linear"
+  },
+  {
+    "name": "smart-home",
+    "file": "smart-home.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "smileys",
+    "file": "smileys.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "sms",
+    "file": "sms.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "sms-edit",
+    "file": "sms-edit.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "sms-notification",
+    "file": "sms-notification.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "sms-search",
+    "file": "sms-search.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "sms-star",
+    "file": "sms-star.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "sms-tracking",
+    "file": "sms-tracking.svg",
+    "category": "Emails, Messages"
+  },
+  {
+    "name": "sort",
+    "file": "sort.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "sound",
+    "file": "sound.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "speaker",
+    "file": "speaker.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "speedometer",
+    "file": "speedometer.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "star",
+    "file": "star.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "star-slash",
+    "file": "star-slash.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "status",
+    "file": "status.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "status-up",
+    "file": "status-up.svg",
+    "category": "Business"
+  },
+  {
+    "name": "sticker",
+    "file": "sticker.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "stickynote",
+    "file": "stickynote.svg",
+    "category": "Content"
+  },
+  {
+    "name": "stop",
+    "file": "stop.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "stop-circle",
+    "file": "stop-circle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "story",
+    "file": "story.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "strongbox",
+    "file": "strongbox.svg",
+    "category": "Money"
+  },
+  {
+    "name": "strongbox-2",
+    "file": "strongbox-2.svg",
+    "category": "Money"
+  },
+  {
+    "name": "subtitle",
+    "file": "subtitle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "sun",
+    "file": "sun.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "sun-fog",
+    "file": "sun-fog.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "tag",
+    "file": "tag.svg",
+    "category": "Money"
+  },
+  {
+    "name": "tag-2",
+    "file": "tag-2.svg",
+    "category": "Money"
+  },
+  {
+    "name": "tag-cross",
+    "file": "tag-cross.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "tag-right",
+    "file": "tag-right.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "tag-user",
+    "file": "tag-user.svg",
+    "category": "Users"
+  },
+  {
+    "name": "task",
+    "file": "task.svg",
+    "category": "Content"
+  },
+  {
+    "name": "task-square",
+    "file": "task-square.svg",
+    "category": "Content"
+  },
+  {
+    "name": "teacher",
+    "file": "teacher.svg",
+    "category": "School, Learning"
+  },
+  {
+    "name": "text",
+    "file": "text.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "text-block",
+    "file": "text-block.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "text-bold",
+    "file": "text-bold.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "text-italic",
+    "file": "text-italic.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "text-underline",
+    "file": "text-underline.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "textalign-center",
+    "file": "textalign-center.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "textalign-justifycenter",
+    "file": "textalign-justifycenter.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "textalign-justifyleft",
+    "file": "textalign-justifyleft.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "textalign-justifyright",
+    "file": "textalign-justifyright.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "textalign-left",
+    "file": "textalign-left.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "textalign-right",
+    "file": "textalign-right.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "tick-circle",
+    "file": "tick-circle.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "tick-square",
+    "file": "tick-square.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "ticket",
+    "file": "ticket.svg",
+    "category": "Money"
+  },
+  {
+    "name": "ticket-2",
+    "file": "ticket-2.svg",
+    "category": "Money"
+  },
+  {
+    "name": "ticket-discount",
+    "file": "ticket-discount.svg",
+    "category": "Money"
+  },
+  {
+    "name": "ticket-expired",
+    "file": "ticket-expired.svg",
+    "category": "Money"
+  },
+  {
+    "name": "ticket-star",
+    "file": "ticket-star.svg",
+    "category": "Money"
+  },
+  {
+    "name": "timer",
+    "file": "timer.svg",
+    "category": "Time"
+  },
+  {
+    "name": "timer-pause",
+    "file": "timer-pause.svg",
+    "category": "Time"
+  },
+  {
+    "name": "timer-start",
+    "file": "timer-start.svg",
+    "category": "Time"
+  },
+  {
+    "name": "toggle-off",
+    "file": "toggle-off.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "toggle-off-circle",
+    "file": "toggle-off-circle.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "toggle-on",
+    "file": "toggle-on.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "toggle-on-circle",
+    "file": "toggle-on-circle.svg",
+    "category": "Settings"
+  },
+  {
+    "name": "trade",
+    "file": "trade.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "transaction-minus",
+    "file": "transaction-minus.svg",
+    "category": "Money"
+  },
+  {
+    "name": "translate",
+    "file": "translate.svg",
+    "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "trash",
+    "file": "trash.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "tree",
+    "file": "tree.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "trend-down",
+    "file": "trend-down.svg",
+    "category": "Business"
+  },
+  {
+    "name": "trend-up",
+    "file": "trend-up.svg",
+    "category": "Business"
+  },
+  {
+    "name": "triangle",
+    "file": "triangle.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "truck-remove",
+    "file": "truck-remove.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "truck-tick",
+    "file": "truck-tick.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "truck-time",
+    "file": "truck-time.svg",
+    "category": "Delivery"
+  },
+  {
+    "name": "trush-square",
+    "file": "trush-square.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "undo",
+    "file": "undo.svg",
+    "category": "Arrow"
+  },
+  {
+    "name": "unlimited",
+    "file": "unlimited.svg",
+    "category": "Support, Like, Question"
+  },
+  {
+    "name": "unlock",
+    "file": "unlock.svg",
+    "category": "Security"
+  },
+  {
+    "name": "user",
+    "file": "user.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-add",
+    "file": "user-add.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-cirlce-add",
+    "file": "user-cirlce-add.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-edit",
+    "file": "user-edit.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-minus",
+    "file": "user-minus.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-octagon",
+    "file": "user-octagon.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-remove",
+    "file": "user-remove.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-search",
+    "file": "user-search.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-square",
+    "file": "user-square.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-tag",
+    "file": "user-tag.svg",
+    "category": "Users"
+  },
+  {
+    "name": "user-tick",
+    "file": "user-tick.svg",
+    "category": "Users"
+  },
+  {
+    "name": "verify",
+    "file": "verify.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "video",
+    "file": "video.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-add",
+    "file": "video-add.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-circle",
+    "file": "video-circle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-horizontal",
+    "file": "video-horizontal.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-octagon",
+    "file": "video-octagon.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-play",
+    "file": "video-play.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-remove",
+    "file": "video-remove.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-slash",
+    "file": "video-slash.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-square",
+    "file": "video-square.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-tick",
+    "file": "video-tick.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-time",
+    "file": "video-time.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "video-vertical",
+    "file": "video-vertical.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "voice-cricle",
+    "file": "voice-cricle.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "voice-square",
+    "file": "voice-square.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "volume-cross",
+    "file": "volume-cross.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "volume-high",
+    "file": "volume-high.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "volume-low",
+    "file": "volume-low.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "volume-low-1",
+    "file": "volume-low-1.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "volume-mute",
+    "file": "volume-mute.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "volume-slash",
+    "file": "volume-slash.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "volume-up",
+    "file": "volume-up.svg",
+    "category": "Video, Audio, Image"
+  },
+  {
+    "name": "wallet",
+    "file": "wallet.svg",
+    "category": "Money"
+  },
+  {
+    "name": "wallet-2",
+    "file": "wallet-2.svg",
+    "category": "Money"
+  },
+  {
+    "name": "wallet-3",
+    "file": "wallet-3.svg",
+    "category": "Money"
+  },
+  {
+    "name": "wallet-add",
+    "file": "wallet-add.svg",
+    "category": "Money"
+  },
+  {
+    "name": "wallet-check",
+    "file": "wallet-check.svg",
+    "category": "Money"
+  },
+  {
+    "name": "wallet-minus",
+    "file": "wallet-minus.svg",
+    "category": "Money"
+  },
+  {
+    "name": "wallet-money",
+    "file": "wallet-money.svg",
+    "category": "Money"
+  },
+  {
+    "name": "wallet-remove",
+    "file": "wallet-remove.svg",
+    "category": "Money"
+  },
+  {
+    "name": "wallet-search",
+    "file": "wallet-search.svg",
+    "category": "Money"
+  },
+  {
+    "name": "warning-2",
+    "file": "warning-2.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "watch",
+    "file": "watch.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "watch-status",
+    "file": "watch-status.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "weight",
+    "file": "weight.svg",
+    "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "wifi",
+    "file": "wifi.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "wifi-square",
+    "file": "wifi-square.svg",
+    "category": "Essetional"
+  },
+  {
+    "name": "wind",
+    "file": "wind.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "wind-2",
+    "file": "wind-2.svg",
+    "category": "Weather"
+  },
+  {
+    "name": "woman",
+    "file": "woman.svg",
+    "category": "Astrology"
+  }
+]

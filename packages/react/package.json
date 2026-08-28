@@ -1,0 +1,47 @@
+{
+  "name": "@abez/icons",
+  "version": "0.0.1",
+  "description": "A clean, consistent icon set for React — tree-shakeable, one component per icon.",
+  "keywords": ["icons", "react", "svg", "icon-library", "component"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastninja294/abez-icons.git",
+    "directory": "packages/react"
+  },
+  "bugs": "https://github.com/lastninja294/abez-icons/issues",
+  "homepage": "https://github.com/lastninja294/abez-icons#readme",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsup",
+    "prepublishOnly": "tsup"
+  },
+  "peerDependencies": {
+    "react": ">=16.5.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "react": "^18.3.1",
+    "tsup": "^8.3.5",
+    "typescript": "^5.6.3"
+  }
+}

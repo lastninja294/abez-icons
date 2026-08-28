@@ -1,0 +1,10 @@
+{
+  "name": "@mizan-icons/icons",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Source-of-truth SVG icons, synced and optimized from Figma.",
+  "files": [
+    "svg",
+    "metadata.json"
+  ]
+}
