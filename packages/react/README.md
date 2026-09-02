@@ -1,6 +1,6 @@
 # @abez/icons
 
-A clean, consistent icon set for React. 804 icons, one component per icon, fully tree-shakeable.
+A clean, consistent icon set for React. 903 icons, one component per icon, fully tree-shakeable.
 
 ## Install
 
@@ -33,7 +33,9 @@ Every icon accepts a `size` prop (default `24`) plus all standard SVG props. Col
 
 ## Icons
 
-804 icons. Browse them at [abez-icons.vercel.app](https://abez-icons.vercel.app/).
+903 icons. Browse them at [abez-icons.vercel.app](https://abez-icons.vercel.app/).
+
+Includes a "Company" and "Crypto Currency" set of brand/product logos (Apple, Google, Bitcoin, Ethereum, etc.). These are trademarks of their respective owners, included for identification purposes only — this does not imply endorsement, and no trademark rights are granted. Check each brand's own guidelines before using their mark.
 
 ## Credits
 

@@ -2,13 +2,13 @@
 
 Only 1 non-brand icon left: `battery-2-3full` (Essential category). Not urgent — grab it whenever, same workflow as before (export the component as SVG, `pnpm ingest`, `pnpm build`).
 
-## Excluded: brand/crypto logos (99)
+## Included: brand/crypto logos (99)
 
-Trademarked company and cryptocurrency logos from `company.zip`. Deliberately excluded from `@abez/icons` — public npm package, trademark risk, not in the spirit of a generic Lucide-style icon set. Not ingested.
+Trademarked company and cryptocurrency logos from `company.zip`. Initially excluded (public npm package, trademark risk, not in the spirit of a generic Lucide-style icon set), then added back in at the user's explicit request despite that risk — see the README's trademark disclaimer. Split into two metadata categories: `Company` (37 — app/tech/social/design-tool logos) and `Crypto Currency` (62 — coin logos, joined by the 6 already-generic crypto icons from `crypto.zip`).
 
-`frame` and `triangle` from that same zip were generic shapes (not logos) and were kept. All 6 icons in `crypto.zip` (`bitcoin-card`, `bitcoin-convert`, `bitcoin-refresh`, `buy-crypto`, `card-coin`, `trade`) were generic crypto/finance concepts, not coin logos, so they were kept too.
+`frame` and `triangle` from that same zip were generic shapes (not logos) and were already present before this batch.
 
-Full excluded list (source filenames from `company.zip`, before slugifying):
+Full list (source filenames from `company.zip`, before slugifying):
 
 ```
 aave-(aave), android, ankr-(ankr), apple, augur-(rep), autonio-(niox),

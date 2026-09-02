@@ -35,6 +35,11 @@
     "category": "Grid"
   },
   {
+    "name": "aave-aave",
+    "file": "aave-aave.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "activity",
     "file": "activity.svg",
     "category": "Business"
@@ -113,6 +118,21 @@
     "name": "align-vertically",
     "file": "align-vertically.svg",
     "category": "Grid"
+  },
+  {
+    "name": "android",
+    "file": "android.svg",
+    "category": "Company"
+  },
+  {
+    "name": "ankr-ankr",
+    "file": "ankr-ankr.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "apple",
+    "file": "apple.svg",
+    "category": "Company"
   },
   {
     "name": "aquarius",
@@ -270,9 +290,24 @@
     "category": "Video, Audio, Image"
   },
   {
+    "name": "augur-rep",
+    "file": "augur-rep.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "autobrightness",
     "file": "autobrightness.svg",
     "category": "Essetional"
+  },
+  {
+    "name": "autonio-niox",
+    "file": "autonio-niox.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "avalanche-avax",
+    "file": "avalanche-avax.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "award",
@@ -375,6 +410,11 @@
     "category": "Essetional"
   },
   {
+    "name": "be",
+    "file": "be.svg",
+    "category": "Company"
+  },
+  {
     "name": "bezier",
     "file": "bezier.svg",
     "category": "Design, Tools"
@@ -383,6 +423,21 @@
     "name": "bill",
     "file": "bill.svg",
     "category": "Content"
+  },
+  {
+    "name": "binance-coin-bnb",
+    "file": "binance-coin-bnb.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "binance-usd-busd",
+    "file": "binance-usd-busd.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "bitcoin-btc",
+    "file": "bitcoin-btc.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "bitcoin-card",
@@ -408,6 +463,11 @@
     "name": "blend-2",
     "file": "blend-2.svg",
     "category": "Design, Tools"
+  },
+  {
+    "name": "blogger",
+    "file": "blogger.svg",
+    "category": "Company"
   },
   {
     "name": "bluetooth",
@@ -463,6 +523,11 @@
     "name": "bookmark-2",
     "file": "bookmark-2.svg",
     "category": "School, Learning"
+  },
+  {
+    "name": "bootsrap",
+    "file": "bootsrap.svg",
+    "category": "Company"
   },
   {
     "name": "box",
@@ -755,6 +820,11 @@
     "category": "Money"
   },
   {
+    "name": "cardano-ada",
+    "file": "cardano-ada.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "cards",
     "file": "cards.svg",
     "category": "Money"
@@ -773,6 +843,21 @@
     "name": "cd",
     "file": "cd.svg",
     "category": "Essetional"
+  },
+  {
+    "name": "celo-celo",
+    "file": "celo-celo.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "celsius-cel",
+    "file": "celsius-cel.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "chainlink-link",
+    "file": "chainlink-link.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "chart",
@@ -803,6 +888,11 @@
     "name": "chrome",
     "file": "chrome.svg",
     "category": "Essetional"
+  },
+  {
+    "name": "civic-cvc",
+    "file": "civic-cvc.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "clipboard",
@@ -1050,9 +1140,19 @@
     "category": "Essetional"
   },
   {
+    "name": "dai-dai",
+    "file": "dai-dai.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "danger",
     "file": "danger.svg",
     "category": "Essetional"
+  },
+  {
+    "name": "dash-dash",
+    "file": "dash-dash.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "data",
@@ -1063,6 +1163,16 @@
     "name": "data-2",
     "file": "data-2.svg",
     "category": "Programing"
+  },
+  {
+    "name": "decred-dcr",
+    "file": "decred-dcr.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "dent-dent",
+    "file": "dent-dent.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "designtools",
@@ -1265,6 +1375,11 @@
     "category": "Money"
   },
   {
+    "name": "dribbble",
+    "file": "dribbble.svg",
+    "category": "Company"
+  },
+  {
     "name": "driver",
     "file": "driver.svg",
     "category": "Computers, Devices, Electronics"
@@ -1290,6 +1405,11 @@
     "category": "Weather"
   },
   {
+    "name": "dropbox",
+    "file": "dropbox.svg",
+    "category": "Company"
+  },
+  {
     "name": "edit",
     "file": "edit.svg",
     "category": "Content"
@@ -1298,6 +1418,11 @@
     "name": "edit-2",
     "file": "edit-2.svg",
     "category": "Content"
+  },
+  {
+    "name": "educare-ekt",
+    "file": "educare-ekt.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "electricity",
@@ -1333,6 +1458,11 @@
     "name": "element-plus",
     "file": "element-plus.svg",
     "category": "Grid"
+  },
+  {
+    "name": "emercoin-emc",
+    "file": "emercoin-emc.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "emoji-happy",
@@ -1380,9 +1510,29 @@
     "category": "Money"
   },
   {
+    "name": "enjin-coin-enj",
+    "file": "enjin-coin-enj.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "eos-eos",
+    "file": "eos-eos.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "eraser",
     "file": "eraser.svg",
     "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "ethereum-classic-etc",
+    "file": "ethereum-classic-etc.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "ethereum-eth",
+    "file": "ethereum-eth.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "export",
@@ -1405,6 +1555,11 @@
     "category": "Security"
   },
   {
+    "name": "facebook",
+    "file": "facebook.svg",
+    "category": "Company"
+  },
+  {
     "name": "fatrows",
     "file": "fatrows.svg",
     "category": "Grid"
@@ -1413,6 +1568,16 @@
     "name": "favorite-chart",
     "file": "favorite-chart.svg",
     "category": "Business"
+  },
+  {
+    "name": "figma",
+    "file": "figma.svg",
+    "category": "Company"
+  },
+  {
+    "name": "figma-1",
+    "file": "figma-1.svg",
+    "category": "Company"
   },
   {
     "name": "filter",
@@ -1580,6 +1745,21 @@
     "category": "Arrow"
   },
   {
+    "name": "frame-1",
+    "file": "frame-1.svg",
+    "category": "Company"
+  },
+  {
+    "name": "framer",
+    "file": "framer.svg",
+    "category": "Company"
+  },
+  {
+    "name": "ftx-token-ftt",
+    "file": "ftx-token-ftt.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "gallery",
     "file": "gallery.svg",
     "category": "Video, Audio, Image"
@@ -1685,6 +1865,21 @@
     "category": "Location"
   },
   {
+    "name": "google",
+    "file": "google.svg",
+    "category": "Company"
+  },
+  {
+    "name": "google-1",
+    "file": "google-1.svg",
+    "category": "Company"
+  },
+  {
+    "name": "google-play",
+    "file": "google-play.svg",
+    "category": "Company"
+  },
+  {
     "name": "gps",
     "file": "gps.svg",
     "category": "Location"
@@ -1775,6 +1970,11 @@
     "category": "Essetional"
   },
   {
+    "name": "harmony-one",
+    "file": "harmony-one.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "hashtag",
     "file": "hashtag.svg",
     "category": "Business"
@@ -1843,6 +2043,16 @@
     "name": "heart-tick",
     "file": "heart-tick.svg",
     "category": "Support, Like, Question"
+  },
+  {
+    "name": "hedera-hashgraph-hbar",
+    "file": "hedera-hashgraph-hbar.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "hex-hex",
+    "file": "hex-hex.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "hierarchy",
@@ -1920,6 +2130,31 @@
     "category": "Building"
   },
   {
+    "name": "html-3",
+    "file": "html-3.svg",
+    "category": "Company"
+  },
+  {
+    "name": "html-5",
+    "file": "html-5.svg",
+    "category": "Company"
+  },
+  {
+    "name": "huobi-token-ht",
+    "file": "huobi-token-ht.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "icon-icx",
+    "file": "icon-icx.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "illustrator",
+    "file": "illustrator.svg",
+    "category": "Company"
+  },
+  {
     "name": "image",
     "file": "image.svg",
     "category": "Video, Audio, Image"
@@ -1943,6 +2178,21 @@
     "name": "instagram",
     "file": "instagram.svg",
     "category": "Essetional"
+  },
+  {
+    "name": "iost-iost",
+    "file": "iost-iost.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "java-script",
+    "file": "java-script.svg",
+    "category": "Company"
+  },
+  {
+    "name": "js",
+    "file": "js.svg",
+    "category": "Company"
   },
   {
     "name": "judge",
@@ -1973,6 +2223,11 @@
     "name": "keyboard-open",
     "file": "keyboard-open.svg",
     "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "kyber-network-knc",
+    "file": "kyber-network-knc.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "lamp",
@@ -2060,6 +2315,11 @@
     "category": "Type, Paragraph, Character"
   },
   {
+    "name": "litecoin-ltc",
+    "file": "litecoin-ltc.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "location",
     "file": "location.svg",
     "category": "Location"
@@ -2138,6 +2398,11 @@
     "name": "main-component",
     "file": "main-component.svg",
     "category": "Design, Tools"
+  },
+  {
+    "name": "maker-mkr",
+    "file": "maker-mkr.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "man",
@@ -2305,6 +2570,11 @@
     "category": "Emails, Messages"
   },
   {
+    "name": "messenger",
+    "file": "messenger.svg",
+    "category": "Company"
+  },
+  {
     "name": "microphone",
     "file": "microphone.svg",
     "category": "Video, Audio, Image"
@@ -2373,6 +2643,11 @@
     "name": "mobile-programming",
     "file": "mobile-programming.svg",
     "category": "Programing"
+  },
+  {
+    "name": "monero-xmr",
+    "file": "monero-xmr.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "money",
@@ -2555,6 +2830,21 @@
     "category": "Video, Audio, Image"
   },
   {
+    "name": "nebulas-nas",
+    "file": "nebulas-nas.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "nem-xem",
+    "file": "nem-xem.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "nexo-nexo",
+    "file": "nexo-nexo.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "next",
     "file": "next.svg",
     "category": "Video, Audio, Image"
@@ -2625,6 +2915,16 @@
     "category": "Notifications"
   },
   {
+    "name": "ocean-protocol-ocean",
+    "file": "ocean-protocol-ocean.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "okb-okb",
+    "file": "okb-okb.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "omega-circle",
     "file": "omega-circle.svg",
     "category": "Design, Tools"
@@ -2633,6 +2933,11 @@
     "name": "omega-square",
     "file": "omega-square.svg",
     "category": "Design, Tools"
+  },
+  {
+    "name": "ontology-ont",
+    "file": "ontology-ont.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "paintbucket",
@@ -2678,6 +2983,11 @@
     "name": "pause-circle",
     "file": "pause-circle.svg",
     "category": "Video, Audio, Image"
+  },
+  {
+    "name": "paypal",
+    "file": "paypal.svg",
+    "category": "Company"
   },
   {
     "name": "pen-add",
@@ -2730,6 +3040,11 @@
     "category": "Type, Paragraph, Character"
   },
   {
+    "name": "photoshop",
+    "file": "photoshop.svg",
+    "category": "Company"
+  },
+  {
     "name": "picture-frame",
     "file": "picture-frame.svg",
     "category": "Location"
@@ -2758,6 +3073,21 @@
     "name": "play-remove",
     "file": "play-remove.svg",
     "category": "Video, Audio, Image"
+  },
+  {
+    "name": "polkadot-dot",
+    "file": "polkadot-dot.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "polygon-matic",
+    "file": "polygon-matic.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "polyswarm-nct",
+    "file": "polyswarm-nct.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "presention-chart",
@@ -2823,6 +3153,16 @@
     "name": "programming-arrows",
     "file": "programming-arrows.svg",
     "category": "Programing"
+  },
+  {
+    "name": "python",
+    "file": "python.svg",
+    "category": "Company"
+  },
+  {
+    "name": "quant-qnt",
+    "file": "quant-qnt.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "quote-down",
@@ -3315,6 +3655,11 @@
     "category": "Shop"
   },
   {
+    "name": "siacoin-sc",
+    "file": "siacoin-sc.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "sidebar-bottom",
     "file": "sidebar-bottom.svg",
     "category": "Programing"
@@ -3353,6 +3698,11 @@
     "name": "size",
     "file": "size.svg",
     "category": "Design, Tools"
+  },
+  {
+    "name": "slack",
+    "file": "slack.svg",
+    "category": "Company"
   },
   {
     "name": "slash",
@@ -3435,6 +3785,16 @@
     "category": "Emails, Messages"
   },
   {
+    "name": "snapchat",
+    "file": "snapchat.svg",
+    "category": "Company"
+  },
+  {
+    "name": "solana-sol",
+    "file": "solana-sol.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "sort",
     "file": "sort.svg",
     "category": "Essetional"
@@ -3455,6 +3815,16 @@
     "category": "Essetional"
   },
   {
+    "name": "spotify",
+    "file": "spotify.svg",
+    "category": "Company"
+  },
+  {
+    "name": "stacks-stx",
+    "file": "stacks-stx.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "star",
     "file": "star.svg",
     "category": "Support, Like, Question"
@@ -3473,6 +3843,11 @@
     "name": "status-up",
     "file": "status-up.svg",
     "category": "Business"
+  },
+  {
+    "name": "stellar-xlm",
+    "file": "stellar-xlm.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "sticker",
@@ -3565,6 +3940,16 @@
     "category": "School, Learning"
   },
   {
+    "name": "tenx-pay",
+    "file": "tenx-pay.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "tether-usdt",
+    "file": "tether-usdt.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "text",
     "file": "text.svg",
     "category": "Type, Paragraph, Character"
@@ -3618,6 +4003,21 @@
     "name": "textalign-right",
     "file": "textalign-right.svg",
     "category": "Type, Paragraph, Character"
+  },
+  {
+    "name": "the-graph-grt",
+    "file": "the-graph-grt.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "theta-theta",
+    "file": "theta-theta.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "thorchain-rune",
+    "file": "thorchain-rune.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "tick-circle",
@@ -3715,6 +4115,11 @@
     "category": "Essetional"
   },
   {
+    "name": "trello",
+    "file": "trello.svg",
+    "category": "Company"
+  },
+  {
     "name": "trend-down",
     "file": "trend-down.svg",
     "category": "Business"
@@ -3728,6 +4133,11 @@
     "name": "triangle",
     "file": "triangle.svg",
     "category": "Essetional"
+  },
+  {
+    "name": "trontron-trx",
+    "file": "trontron-trx.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "truck-remove",
@@ -3750,6 +4160,16 @@
     "category": "Essetional"
   },
   {
+    "name": "twitch",
+    "file": "twitch.svg",
+    "category": "Company"
+  },
+  {
+    "name": "ui8",
+    "file": "ui8.svg",
+    "category": "Company"
+  },
+  {
     "name": "undo",
     "file": "undo.svg",
     "category": "Arrow"
@@ -3763,6 +4183,11 @@
     "name": "unlock",
     "file": "unlock.svg",
     "category": "Security"
+  },
+  {
+    "name": "usd-coin-usdc",
+    "file": "usd-coin-usdc.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "user",
@@ -3820,9 +4245,19 @@
     "category": "Users"
   },
   {
+    "name": "velas-vlx",
+    "file": "velas-vlx.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "verify",
     "file": "verify.svg",
     "category": "Essetional"
+  },
+  {
+    "name": "vibe-vibe",
+    "file": "vibe-vibe.svg",
+    "category": "Crypto Currency"
   },
   {
     "name": "video",
@@ -3930,6 +4365,11 @@
     "category": "Video, Audio, Image"
   },
   {
+    "name": "vuesax",
+    "file": "vuesax.svg",
+    "category": "Company"
+  },
+  {
     "name": "wallet",
     "file": "wallet.svg",
     "category": "Money"
@@ -3975,6 +4415,16 @@
     "category": "Money"
   },
   {
+    "name": "wanchain-wan",
+    "file": "wanchain-wan.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "wanchain-wan-1",
+    "file": "wanchain-wan-1.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "warning-2",
     "file": "warning-2.svg",
     "category": "Essetional"
@@ -3993,6 +4443,11 @@
     "name": "weight",
     "file": "weight.svg",
     "category": "Computers, Devices, Electronics"
+  },
+  {
+    "name": "whatsapp",
+    "file": "whatsapp.svg",
+    "category": "Company"
   },
   {
     "name": "wifi",
@@ -4015,8 +4470,48 @@
     "category": "Weather"
   },
   {
+    "name": "windows",
+    "file": "windows.svg",
+    "category": "Company"
+  },
+  {
+    "name": "wing-wing",
+    "file": "wing-wing.svg",
+    "category": "Crypto Currency"
+  },
+  {
     "name": "woman",
     "file": "woman.svg",
     "category": "Astrology"
+  },
+  {
+    "name": "xd",
+    "file": "xd.svg",
+    "category": "Company"
+  },
+  {
+    "name": "xiaomi",
+    "file": "xiaomi.svg",
+    "category": "Company"
+  },
+  {
+    "name": "xrp-xrp",
+    "file": "xrp-xrp.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "youtube",
+    "file": "youtube.svg",
+    "category": "Company"
+  },
+  {
+    "name": "zel-zel",
+    "file": "zel-zel.svg",
+    "category": "Crypto Currency"
+  },
+  {
+    "name": "zoom",
+    "file": "zoom.svg",
+    "category": "Company"
   }
 ]
