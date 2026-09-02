@@ -639,6 +639,7 @@ export { default as SecurityTime } from './icons/security-time.js';
 export { default as SecurityUser } from './icons/security-user.js';
 export { default as Send } from './icons/send.js';
 export { default as Send2 } from './icons/send-2.js';
+export { default as SendRotate } from './icons/send-rotate.js';
 export { default as SendSqaure2 } from './icons/send-sqaure-2.js';
 export { default as SendSquare } from './icons/send-square.js';
 export { default as Setting } from './icons/setting.js';

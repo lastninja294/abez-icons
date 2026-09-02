@@ -3200,6 +3200,11 @@
     "category": "Essetional"
   },
   {
+    "name": "send-rotate",
+    "file": "send-rotate.svg",
+    "category": "Arrow"
+  },
+  {
     "name": "send-sqaure-2",
     "file": "send-sqaure-2.svg",
     "category": "Arrow"

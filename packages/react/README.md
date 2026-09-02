@@ -1,6 +1,6 @@
 # @abez/icons
 
-A clean, consistent icon set for React. 803 icons, one component per icon, fully tree-shakeable.
+A clean, consistent icon set for React. 804 icons, one component per icon, fully tree-shakeable.
 
 ## Install
 
@@ -33,7 +33,7 @@ Every icon accepts a `size` prop (default `24`) plus all standard SVG props. Col
 
 ## Icons
 
-803 icons. Browse them with `pnpm --filter @abez/icon-gallery dev` in the [repo](https://github.com/lastninja294/abez-icons) — a hosted gallery is coming.
+804 icons. Browse them at [abez-icons.vercel.app](https://abez-icons.vercel.app/).
 
 ## Credits
 
