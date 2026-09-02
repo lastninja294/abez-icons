@@ -369,6 +369,16 @@ button {
   transform: translateY(-1px);
 }
 
+.icon-tile-bold-dot {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
 .icon-tile-glyph {
   display: flex;
   transition: opacity 0.12s;

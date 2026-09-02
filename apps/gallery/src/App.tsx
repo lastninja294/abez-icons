@@ -96,6 +96,7 @@ export default function App() {
                   const Comp = IconComponents[primaryComponentName(icon)];
                   return (
                     <button key={icon.name} className="icon-tile" onClick={() => setSelected(icon)}>
+                      {(icon.hasBold || icon.boldOnly) && <span className="icon-tile-bold-dot" title="Bold variant available" />}
                       <span className="icon-tile-glyph">{Comp ? <Comp size={22} /> : <span className="broken">✕</span>}</span>
                       <span className="icon-tile-label">{icon.name}</span>
                     </button>
