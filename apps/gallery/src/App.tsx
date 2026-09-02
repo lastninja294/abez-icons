@@ -5,7 +5,7 @@ import DetailPanel from './components/DetailPanel';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 import type { IconMeta } from './lib/icons';
-import { toPascalCase } from './lib/icons';
+import { primaryComponentName } from './lib/icons';
 
 const ICONS = metadata as IconMeta[];
 const IconComponents = Icons as unknown as Record<string, React.ComponentType<{ size?: number | string }>>;
@@ -44,7 +44,7 @@ export default function App() {
     return () => window.removeEventListener('keydown', onKey);
   }, []);
 
-  const missing = useMemo(() => ICONS.filter((icon) => !IconComponents[toPascalCase(icon.name)]), []);
+  const missing = useMemo(() => ICONS.filter((icon) => !IconComponents[primaryComponentName(icon)]), []);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -93,7 +93,7 @@ export default function App() {
               </h2>
               <div className="grid">
                 {icons.map((icon) => {
-                  const Comp = IconComponents[toPascalCase(icon.name)];
+                  const Comp = IconComponents[primaryComponentName(icon)];
                   return (
                     <button key={icon.name} className="icon-tile" onClick={() => setSelected(icon)}>
                       <span className="icon-tile-glyph">{Comp ? <Comp size={22} /> : <span className="broken">✕</span>}</span>

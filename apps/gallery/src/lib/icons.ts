@@ -2,6 +2,15 @@ export interface IconMeta {
   name: string;
   file: string;
   category: string;
+  hasBold?: boolean;
+  boldOnly?: boolean;
+  boldName?: string;
+}
+
+// The component name to render as the icon's primary/canonical variant.
+// `boldOnly` icons have no linear component, so fall back to the bold one.
+export function primaryComponentName(icon: IconMeta) {
+  return icon.boldOnly && icon.boldName ? icon.boldName : toPascalCase(icon.name);
 }
 
 // Mirrors scripts/generate-react.ts's naming so lookups match real package exports.

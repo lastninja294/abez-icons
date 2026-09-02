@@ -1,0 +1,6 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+import { Ref, forwardRef } from "react";
+const PharagraphspacingBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M21 22.75H3c-.41 0-.75-.34-.75-.75s.34-.75.75-.75h18c.41 0 .75.34.75.75s-.34.75-.75.75m0-20H3c-.41 0-.75-.34-.75-.75s.34-.75.75-.75h18c.41 0 .75.34.75.75s-.34.75-.75.75m-6.7 12.61-1.55 1.55V6.7l1.55 1.55c.15.15.34.22.53.22s.38-.07.53-.22c.29-.29.29-.77 0-1.06l-2.83-2.83a.774.774 0 0 0-1.06 0L8.64 7.19c-.29.29-.29.77 0 1.06s.77.29 1.06 0l1.55-1.55v10.21L9.7 15.36a.754.754 0 0 0-1.06 0c-.29.29-.29.77 0 1.06l2.83 2.83a.75.75 0 0 0 1.06 0l2.83-2.83c.29-.29.29-.77 0-1.06a.754.754 0 0 0-1.06 0" /></svg>;
+const ForwardRef = forwardRef(PharagraphspacingBold);
+export default ForwardRef;

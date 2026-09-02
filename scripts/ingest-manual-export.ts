@@ -1,10 +1,12 @@
 // Ingests a folder of manually-exported Figma SVGs (e.g. an unzipped batch
 // export like "vuesax/linear/<name>.svg") into packages/icons/svg/.
-// Usage: tsx scripts/ingest-manual-export.ts <path-to-unzipped-folder>
+// Usage: tsx scripts/ingest-manual-export.ts <path-to-unzipped-folder> [--dest=svg-bold]
 import { mkdir, readdir, readFile, stat, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
-const ICONS_DIR = path.resolve(import.meta.dirname, '../packages/icons/svg');
+const destArg = process.argv.find((a) => a.startsWith('--dest='));
+const destName = destArg ? destArg.slice('--dest='.length) : 'svg';
+const ICONS_DIR = path.resolve(import.meta.dirname, '../packages/icons', destName);
 
 function slugify(name: string) {
   return name

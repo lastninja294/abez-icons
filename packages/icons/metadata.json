@@ -2,1432 +2,2221 @@
   {
     "name": "24-support",
     "file": "24-support.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "Icon24SupportBold"
   },
   {
     "name": "3d-cube-scan",
     "file": "3d-cube-scan.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "Icon3dCubeScanBold"
   },
   {
     "name": "3d-rotate",
     "file": "3d-rotate.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "Icon3dRotateBold"
   },
   {
     "name": "3d-square",
     "file": "3d-square.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "Icon3dSquareBold"
   },
   {
     "name": "3dcube",
     "file": "3dcube.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "Icon3dcubeBold"
   },
   {
     "name": "3full",
     "file": "3full.svg",
-    "category": "Other"
+    "category": "Other",
+    "hasBold": true,
+    "boldName": "Icon3fullBold"
   },
   {
     "name": "3square",
     "file": "3square.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Icon3squareBold"
   },
   {
     "name": "aave-aave",
     "file": "aave-aave.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "AaveAaveBold"
   },
   {
     "name": "activity",
     "file": "activity.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "ActivityBold"
   },
   {
     "name": "add",
     "file": "add.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "AddBold"
   },
   {
     "name": "add-circle",
     "file": "add-circle.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "AddCircleBold"
   },
   {
     "name": "add-square",
     "file": "add-square.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "AddSquareBold"
   },
   {
     "name": "additem",
     "file": "additem.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "AdditemBold"
   },
   {
     "name": "airdrop",
     "file": "airdrop.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "AirdropBold"
   },
   {
     "name": "airplane",
     "file": "airplane.svg",
-    "category": "Car - Linear"
+    "category": "Car - Linear",
+    "hasBold": true,
+    "boldName": "AirplaneBold"
   },
   {
     "name": "airplane-square",
     "file": "airplane-square.svg",
-    "category": "Car - Linear"
+    "category": "Car - Linear",
+    "hasBold": true,
+    "boldName": "AirplaneSquareBold"
   },
   {
     "name": "airpod",
     "file": "airpod.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "AirpodBold"
   },
   {
     "name": "airpods",
     "file": "airpods.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "AirpodsBold"
   },
   {
     "name": "alarm",
     "file": "alarm.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "AlarmBold"
   },
   {
     "name": "align-bottom",
     "file": "align-bottom.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "AlignBottomBold"
   },
   {
     "name": "align-horizontally",
     "file": "align-horizontally.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "AlignHorizontallyBold"
   },
   {
     "name": "align-left",
     "file": "align-left.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "AlignLeftBold"
   },
   {
     "name": "align-right",
     "file": "align-right.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "AlignRightBold"
   },
   {
     "name": "align-vertically",
     "file": "align-vertically.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "AlignVerticallyBold"
   },
   {
     "name": "android",
     "file": "android.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "AndroidBold"
   },
   {
     "name": "ankr-ankr",
     "file": "ankr-ankr.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "AnkrAnkrBold"
   },
   {
     "name": "apple",
     "file": "apple.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "AppleBold"
   },
   {
     "name": "aquarius",
     "file": "aquarius.svg",
-    "category": "Astrology"
+    "category": "Astrology",
+    "hasBold": true,
+    "boldName": "AquariusBold"
   },
   {
     "name": "archive",
     "file": "archive.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ArchiveBold"
   },
   {
     "name": "archive-add",
     "file": "archive-add.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "ArchiveAddBold"
   },
   {
     "name": "archive-book",
     "file": "archive-book.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "ArchiveBookBold"
   },
   {
     "name": "archive-minus",
     "file": "archive-minus.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "ArchiveMinusBold"
   },
   {
     "name": "archive-slash",
     "file": "archive-slash.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "ArchiveSlashBold"
   },
   {
     "name": "archive-tick",
     "file": "archive-tick.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "ArchiveTickBold"
   },
   {
     "name": "arrange-circle",
     "file": "arrange-circle.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrangeCircleBold"
   },
   {
     "name": "arrange-circle-2",
     "file": "arrange-circle-2.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrangeCircle2Bold"
   },
   {
     "name": "arrange-square",
     "file": "arrange-square.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrangeSquareBold"
   },
   {
     "name": "arrange-square-2",
     "file": "arrange-square-2.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrangeSquare2Bold"
   },
   {
     "name": "arrow",
     "file": "arrow.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "ArrowBold"
   },
   {
     "name": "arrow-2",
     "file": "arrow-2.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "Arrow2Bold"
   },
   {
     "name": "arrow-3",
     "file": "arrow-3.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "Arrow3Bold"
   },
   {
     "name": "arrow-bottom",
     "file": "arrow-bottom.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowBottomBold"
   },
   {
     "name": "arrow-circle-down",
     "file": "arrow-circle-down.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowCircleDownBold"
   },
   {
     "name": "arrow-circle-left",
     "file": "arrow-circle-left.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowCircleLeftBold"
   },
   {
     "name": "arrow-circle-right",
     "file": "arrow-circle-right.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowCircleRightBold"
+  },
+  {
+    "name": "arrow-circle-up",
+    "file": "arrow-circle-up.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowCircleUpBold"
   },
   {
     "name": "arrow-down",
     "file": "arrow-down.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowDownBold"
+  },
+  {
+    "name": "arrow-down-1",
+    "file": "arrow-down-1.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowDown1Bold"
+  },
+  {
+    "name": "arrow-down-2",
+    "file": "arrow-down-2.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowDown2Bold"
   },
   {
     "name": "arrow-left",
     "file": "arrow-left.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowLeftBold"
+  },
+  {
+    "name": "arrow-left-1",
+    "file": "arrow-left-1.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowLeft1Bold"
+  },
+  {
+    "name": "arrow-left-2",
+    "file": "arrow-left-2.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowLeft2Bold"
+  },
+  {
+    "name": "arrow-left-3",
+    "file": "arrow-left-3.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowLeft3Bold"
   },
   {
     "name": "arrow-right",
     "file": "arrow-right.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowRightBold"
+  },
+  {
+    "name": "arrow-right-1",
+    "file": "arrow-right-1.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowRight1Bold"
+  },
+  {
+    "name": "arrow-right-2",
+    "file": "arrow-right-2.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowRight2Bold"
+  },
+  {
+    "name": "arrow-right-3",
+    "file": "arrow-right-3.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowRight3Bold"
   },
   {
     "name": "arrow-square",
     "file": "arrow-square.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "ArrowSquareBold"
   },
   {
     "name": "arrow-square-down",
     "file": "arrow-square-down.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowSquareDownBold"
   },
   {
     "name": "arrow-square-left",
     "file": "arrow-square-left.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowSquareLeftBold"
   },
   {
     "name": "arrow-square-right",
     "file": "arrow-square-right.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowSquareRightBold"
   },
   {
     "name": "arrow-square-up",
     "file": "arrow-square-up.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowSquareUpBold"
+  },
+  {
+    "name": "arrow-swap",
+    "file": "arrow-swap.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowSwapBold"
   },
   {
     "name": "arrow-swap-horizontal",
     "file": "arrow-swap-horizontal.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowSwapHorizontalBold"
   },
   {
     "name": "arrow-up",
     "file": "arrow-up.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ArrowUpBold"
+  },
+  {
+    "name": "arrow-up-1",
+    "file": "arrow-up-1.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowUp1Bold"
+  },
+  {
+    "name": "arrow-up-2",
+    "file": "arrow-up-2.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowUp2Bold"
+  },
+  {
+    "name": "arrow-up-3",
+    "file": "arrow-up-3.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "ArrowUp3Bold"
   },
   {
     "name": "attach-circle",
     "file": "attach-circle.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "AttachCircleBold"
   },
   {
     "name": "attach-square",
     "file": "attach-square.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "AttachSquareBold"
   },
   {
     "name": "audio-square",
     "file": "audio-square.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "AudioSquareBold"
   },
   {
     "name": "augur-rep",
     "file": "augur-rep.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "AugurRepBold"
   },
   {
     "name": "autobrightness",
     "file": "autobrightness.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "AutobrightnessBold"
   },
   {
     "name": "autonio-niox",
     "file": "autonio-niox.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "AutonioNioxBold"
   },
   {
     "name": "avalanche-avax",
     "file": "avalanche-avax.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "AvalancheAvaxBold"
   },
   {
     "name": "award",
     "file": "award.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "AwardBold"
   },
   {
     "name": "back-square",
     "file": "back-square.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "BackSquareBold"
   },
   {
     "name": "backward",
     "file": "backward.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "BackwardBold"
   },
   {
     "name": "backward-10-seconds",
     "file": "backward-10-seconds.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "Backward10SecondsBold"
   },
   {
     "name": "backward-15-seconds",
     "file": "backward-15-seconds.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "Backward15SecondsBold"
   },
   {
     "name": "backward-5-seconds",
     "file": "backward-5-seconds.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "Backward5SecondsBold"
   },
   {
     "name": "backward-item",
     "file": "backward-item.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "BackwardItemBold"
   },
   {
     "name": "bag",
     "file": "bag.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "BagBold"
   },
   {
     "name": "bag-2",
     "file": "bag-2.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "Bag2Bold"
   },
   {
     "name": "bag-cross",
     "file": "bag-cross.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "BagCrossBold"
+  },
+  {
+    "name": "bag-cross-1",
+    "file": "bag-cross-1.svg",
+    "category": "Shop",
+    "boldOnly": true,
+    "boldName": "BagCross1Bold"
   },
   {
     "name": "bag-happy",
     "file": "bag-happy.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "BagHappyBold"
   },
   {
     "name": "bag-tick",
     "file": "bag-tick.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "BagTickBold"
   },
   {
     "name": "bag-tick-2",
     "file": "bag-tick-2.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "BagTick2Bold"
   },
   {
     "name": "bag-timer",
     "file": "bag-timer.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "BagTimerBold"
   },
   {
     "name": "bank",
     "file": "bank.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "BankBold"
   },
   {
     "name": "barcode",
     "file": "barcode.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "BarcodeBold"
   },
   {
     "name": "battery-charging",
     "file": "battery-charging.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "BatteryChargingBold"
   },
   {
     "name": "battery-disable",
     "file": "battery-disable.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "BatteryDisableBold"
   },
   {
     "name": "battery-empty",
     "file": "battery-empty.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "BatteryEmptyBold"
+  },
+  {
+    "name": "battery-empty-1",
+    "file": "battery-empty-1.svg",
+    "category": "Essetional",
+    "boldOnly": true,
+    "boldName": "BatteryEmpty1Bold"
   },
   {
     "name": "battery-full",
     "file": "battery-full.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "BatteryFullBold"
   },
   {
     "name": "be",
     "file": "be.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "BeBold"
   },
   {
     "name": "bezier",
     "file": "bezier.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "BezierBold"
   },
   {
     "name": "bill",
     "file": "bill.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "BillBold"
   },
   {
     "name": "binance-coin-bnb",
     "file": "binance-coin-bnb.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "BinanceCoinBnbBold"
   },
   {
     "name": "binance-usd-busd",
     "file": "binance-usd-busd.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "BinanceUsdBusdBold"
   },
   {
     "name": "bitcoin-btc",
     "file": "bitcoin-btc.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "BitcoinBtcBold"
   },
   {
     "name": "bitcoin-card",
     "file": "bitcoin-card.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "BitcoinCardBold"
   },
   {
     "name": "bitcoin-convert",
     "file": "bitcoin-convert.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "BitcoinConvertBold"
   },
   {
     "name": "bitcoin-refresh",
     "file": "bitcoin-refresh.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "BitcoinRefreshBold"
   },
   {
     "name": "blend",
     "file": "blend.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "BlendBold"
   },
   {
     "name": "blend-2",
     "file": "blend-2.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "Blend2Bold"
   },
   {
     "name": "blogger",
     "file": "blogger.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "BloggerBold"
   },
   {
     "name": "bluetooth",
     "file": "bluetooth.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "BluetoothBold"
   },
   {
     "name": "bluetooth-2",
     "file": "bluetooth-2.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "Bluetooth2Bold"
   },
   {
     "name": "bluetooth-circle",
     "file": "bluetooth-circle.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "BluetoothCircleBold"
   },
   {
     "name": "bluetooth-rectangle",
     "file": "bluetooth-rectangle.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "BluetoothRectangleBold"
   },
   {
     "name": "blur",
     "file": "blur.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "BlurBold"
   },
   {
     "name": "book",
     "file": "book.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "BookBold"
   },
   {
     "name": "book-1",
     "file": "book-1.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "Book1Bold"
   },
   {
     "name": "book-saved",
     "file": "book-saved.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "BookSavedBold"
   },
   {
     "name": "book-square",
     "file": "book-square.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "BookSquareBold"
   },
   {
     "name": "bookmark",
     "file": "bookmark.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "BookmarkBold"
   },
   {
     "name": "bookmark-2",
     "file": "bookmark-2.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "Bookmark2Bold"
   },
   {
     "name": "bootsrap",
     "file": "bootsrap.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "BootsrapBold"
   },
   {
     "name": "box",
     "file": "box.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "BoxBold"
+  },
+  {
+    "name": "box-1",
+    "file": "box-1.svg",
+    "category": "Delivery",
+    "boldOnly": true,
+    "boldName": "Box1Bold"
   },
   {
     "name": "box-2",
     "file": "box-2.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "Box2Bold"
   },
   {
     "name": "box-add",
     "file": "box-add.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "BoxAddBold"
   },
   {
     "name": "box-remove",
     "file": "box-remove.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "BoxRemoveBold"
   },
   {
     "name": "box-search",
     "file": "box-search.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "BoxSearchBold"
   },
   {
     "name": "box-tick",
     "file": "box-tick.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "BoxTickBold"
   },
   {
     "name": "box-time",
     "file": "box-time.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "BoxTimeBold"
   },
   {
     "name": "briefcase",
     "file": "briefcase.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "BriefcaseBold"
   },
   {
     "name": "brifecase-cross",
     "file": "brifecase-cross.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "BrifecaseCrossBold"
   },
   {
     "name": "brifecase-tick",
     "file": "brifecase-tick.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "BrifecaseTickBold"
   },
   {
     "name": "brifecase-timer",
     "file": "brifecase-timer.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "BrifecaseTimerBold"
   },
   {
     "name": "broom",
     "file": "broom.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "BroomBold"
   },
   {
     "name": "brush",
     "file": "brush.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "BrushBold"
+  },
+  {
+    "name": "brush-1",
+    "file": "brush-1.svg",
+    "category": "Design, Tools",
+    "boldOnly": true,
+    "boldName": "Brush1Bold"
+  },
+  {
+    "name": "brush-2",
+    "file": "brush-2.svg",
+    "category": "Design, Tools",
+    "boldOnly": true,
+    "boldName": "Brush2Bold"
+  },
+  {
+    "name": "brush-3",
+    "file": "brush-3.svg",
+    "category": "Design, Tools",
+    "boldOnly": true,
+    "boldName": "Brush3Bold"
+  },
+  {
+    "name": "brush-4",
+    "file": "brush-4.svg",
+    "category": "Design, Tools",
+    "boldOnly": true,
+    "boldName": "Brush4Bold"
   },
   {
     "name": "bubble",
     "file": "bubble.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "BubbleBold"
+  },
+  {
+    "name": "bucket",
+    "file": "bucket.svg",
+    "category": "Design, Tools",
+    "boldOnly": true,
+    "boldName": "BucketBold"
   },
   {
     "name": "bucket-circle",
     "file": "bucket-circle.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "BucketCircleBold"
   },
   {
     "name": "bucket-square",
     "file": "bucket-square.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "BucketSquareBold"
   },
   {
     "name": "building",
     "file": "building.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "BuildingBold"
   },
   {
     "name": "building-3",
     "file": "building-3.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "Building3Bold"
   },
   {
     "name": "building-4",
     "file": "building-4.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "Building4Bold"
   },
   {
     "name": "buildings",
     "file": "buildings.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "BuildingsBold"
   },
   {
     "name": "buildings-2",
     "file": "buildings-2.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "Buildings2Bold"
   },
   {
     "name": "buliding",
     "file": "buliding.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "BulidingBold"
   },
   {
     "name": "bus",
     "file": "bus.svg",
-    "category": "Car - Linear"
+    "category": "Car - Linear",
+    "hasBold": true,
+    "boldName": "BusBold"
   },
   {
     "name": "buy-crypto",
     "file": "buy-crypto.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "BuyCryptoBold"
   },
   {
     "name": "cake",
     "file": "cake.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "CakeBold"
   },
   {
     "name": "calculator",
     "file": "calculator.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "CalculatorBold"
   },
   {
     "name": "calendar",
     "file": "calendar.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "CalendarBold"
+  },
+  {
+    "name": "calendar-1",
+    "file": "calendar-1.svg",
+    "category": "Time",
+    "boldOnly": true,
+    "boldName": "Calendar1Bold"
   },
   {
     "name": "calendar-2",
     "file": "calendar-2.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "Calendar2Bold"
   },
   {
     "name": "calendar-add",
     "file": "calendar-add.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "CalendarAddBold"
   },
   {
     "name": "calendar-circle",
     "file": "calendar-circle.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "CalendarCircleBold"
   },
   {
     "name": "calendar-edit",
     "file": "calendar-edit.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "CalendarEditBold"
   },
   {
     "name": "calendar-remove",
     "file": "calendar-remove.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "CalendarRemoveBold"
   },
   {
     "name": "calendar-search",
     "file": "calendar-search.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "CalendarSearchBold"
   },
   {
     "name": "calendar-tick",
     "file": "calendar-tick.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "CalendarTickBold"
   },
   {
     "name": "call",
     "file": "call.svg",
-    "category": "Call"
+    "category": "Call",
+    "hasBold": true,
+    "boldName": "CallBold"
   },
   {
     "name": "call-add",
     "file": "call-add.svg",
-    "category": "Call"
+    "category": "Call",
+    "hasBold": true,
+    "boldName": "CallAddBold"
   },
   {
     "name": "call-calling",
     "file": "call-calling.svg",
-    "category": "Call"
+    "category": "Call",
+    "hasBold": true,
+    "boldName": "CallCallingBold"
   },
   {
     "name": "call-incoming",
     "file": "call-incoming.svg",
-    "category": "Call"
+    "category": "Call",
+    "hasBold": true,
+    "boldName": "CallIncomingBold"
   },
   {
     "name": "call-minus",
     "file": "call-minus.svg",
-    "category": "Call"
+    "category": "Call",
+    "hasBold": true,
+    "boldName": "CallMinusBold"
   },
   {
     "name": "call-outgoing",
     "file": "call-outgoing.svg",
-    "category": "Call"
+    "category": "Call",
+    "hasBold": true,
+    "boldName": "CallOutgoingBold"
   },
   {
     "name": "call-received",
     "file": "call-received.svg",
-    "category": "Call"
+    "category": "Call",
+    "hasBold": true,
+    "boldName": "CallReceivedBold"
   },
   {
     "name": "call-remove",
     "file": "call-remove.svg",
-    "category": "Call"
+    "category": "Call",
+    "hasBold": true,
+    "boldName": "CallRemoveBold"
   },
   {
     "name": "call-slash",
     "file": "call-slash.svg",
-    "category": "Call"
+    "category": "Call",
+    "hasBold": true,
+    "boldName": "CallSlashBold"
   },
   {
     "name": "camera",
     "file": "camera.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "CameraBold"
   },
   {
     "name": "camera-slash",
     "file": "camera-slash.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "CameraSlashBold"
   },
   {
     "name": "candle",
     "file": "candle.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "CandleBold"
   },
   {
     "name": "candle-2",
     "file": "candle-2.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "Candle2Bold"
   },
   {
     "name": "car",
     "file": "car.svg",
-    "category": "Car - Linear"
+    "category": "Car - Linear",
+    "hasBold": true,
+    "boldName": "CarBold"
   },
   {
     "name": "card",
     "file": "card.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardBold"
   },
   {
     "name": "card-add",
     "file": "card-add.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardAddBold"
   },
   {
     "name": "card-coin",
     "file": "card-coin.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "CardCoinBold"
   },
   {
     "name": "card-edit",
     "file": "card-edit.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardEditBold"
   },
   {
     "name": "card-pos",
     "file": "card-pos.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardPosBold"
   },
   {
     "name": "card-receive",
     "file": "card-receive.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardReceiveBold"
   },
   {
     "name": "card-remove",
     "file": "card-remove.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardRemoveBold"
+  },
+  {
+    "name": "card-remove-1",
+    "file": "card-remove-1.svg",
+    "category": "Money",
+    "boldOnly": true,
+    "boldName": "CardRemove1Bold"
   },
   {
     "name": "card-send",
     "file": "card-send.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardSendBold"
   },
   {
     "name": "card-slash",
     "file": "card-slash.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardSlashBold"
   },
   {
     "name": "card-tick",
     "file": "card-tick.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardTickBold"
+  },
+  {
+    "name": "card-tick-1",
+    "file": "card-tick-1.svg",
+    "category": "Money",
+    "boldOnly": true,
+    "boldName": "CardTick1Bold"
   },
   {
     "name": "cardano-ada",
     "file": "cardano-ada.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "CardanoAdaBold"
   },
   {
     "name": "cards",
     "file": "cards.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CardsBold"
   },
   {
     "name": "category",
     "file": "category.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "CategoryBold"
   },
   {
     "name": "category-2",
     "file": "category-2.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "Category2Bold"
   },
   {
     "name": "cd",
     "file": "cd.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "CdBold"
   },
   {
     "name": "celo-celo",
     "file": "celo-celo.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "CeloCeloBold"
   },
   {
     "name": "celsius-cel",
     "file": "celsius-cel.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "CelsiusCelBold"
   },
   {
     "name": "chainlink-link",
     "file": "chainlink-link.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "ChainlinkLinkBold"
   },
   {
     "name": "chart",
     "file": "chart.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "ChartBold"
+  },
+  {
+    "name": "chart-1",
+    "file": "chart-1.svg",
+    "category": "Business",
+    "boldOnly": true,
+    "boldName": "Chart1Bold"
   },
   {
     "name": "chart-2",
     "file": "chart-2.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "Chart2Bold"
+  },
+  {
+    "name": "chart-21",
+    "file": "chart-21.svg",
+    "category": "Business",
+    "boldOnly": true,
+    "boldName": "Chart21Bold"
+  },
+  {
+    "name": "chart-fail",
+    "file": "chart-fail.svg",
+    "category": "Business",
+    "boldOnly": true,
+    "boldName": "ChartFailBold"
   },
   {
     "name": "chart-square",
     "file": "chart-square.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ChartSquareBold"
   },
   {
     "name": "chart-success",
     "file": "chart-success.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "ChartSuccessBold"
   },
   {
     "name": "check",
     "file": "check.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "CheckBold"
   },
   {
     "name": "chrome",
     "file": "chrome.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "ChromeBold"
   },
   {
     "name": "civic-cvc",
     "file": "civic-cvc.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "CivicCvcBold"
   },
   {
     "name": "clipboard",
     "file": "clipboard.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "ClipboardBold"
   },
   {
     "name": "clipboard-close",
     "file": "clipboard-close.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "ClipboardCloseBold"
   },
   {
     "name": "clipboard-export",
     "file": "clipboard-export.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "ClipboardExportBold"
   },
   {
     "name": "clipboard-import",
     "file": "clipboard-import.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "ClipboardImportBold"
   },
   {
     "name": "clipboard-text",
     "file": "clipboard-text.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "ClipboardTextBold"
   },
   {
     "name": "clipboard-tick",
     "file": "clipboard-tick.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "ClipboardTickBold"
   },
   {
     "name": "clock",
     "file": "clock.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "ClockBold"
   },
   {
     "name": "close-circle",
     "file": "close-circle.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "CloseCircleBold"
   },
   {
     "name": "close-square",
     "file": "close-square.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "CloseSquareBold"
   },
   {
     "name": "cloud",
     "file": "cloud.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudBold"
   },
   {
     "name": "cloud-add",
     "file": "cloud-add.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "CloudAddBold"
   },
   {
     "name": "cloud-change",
     "file": "cloud-change.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "CloudChangeBold"
   },
   {
     "name": "cloud-connection",
     "file": "cloud-connection.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "CloudConnectionBold"
   },
   {
     "name": "cloud-cross",
     "file": "cloud-cross.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudCrossBold"
   },
   {
     "name": "cloud-drizzle",
     "file": "cloud-drizzle.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudDrizzleBold"
   },
   {
     "name": "cloud-fog",
     "file": "cloud-fog.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudFogBold"
   },
   {
     "name": "cloud-lightning",
     "file": "cloud-lightning.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudLightningBold"
   },
   {
     "name": "cloud-minus",
     "file": "cloud-minus.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudMinusBold"
   },
   {
     "name": "cloud-notif",
     "file": "cloud-notif.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudNotifBold"
   },
   {
     "name": "cloud-plus",
     "file": "cloud-plus.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudPlusBold"
   },
   {
     "name": "cloud-remove",
     "file": "cloud-remove.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "CloudRemoveBold"
   },
   {
     "name": "cloud-snow",
     "file": "cloud-snow.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudSnowBold"
   },
   {
     "name": "cloud-sunny",
     "file": "cloud-sunny.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "CloudSunnyBold"
   },
   {
     "name": "code",
     "file": "code.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "CodeBold"
+  },
+  {
+    "name": "code-1",
+    "file": "code-1.svg",
+    "category": "Programing",
+    "boldOnly": true,
+    "boldName": "Code1Bold"
   },
   {
     "name": "code-circle",
     "file": "code-circle.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "CodeCircleBold"
   },
   {
     "name": "coffee",
     "file": "coffee.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "CoffeeBold"
   },
   {
     "name": "coin",
     "file": "coin.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "CoinBold"
+  },
+  {
+    "name": "coin-1",
+    "file": "coin-1.svg",
+    "category": "Money",
+    "boldOnly": true,
+    "boldName": "Coin1Bold"
   },
   {
     "name": "color-swatch",
     "file": "color-swatch.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "ColorSwatchBold"
   },
   {
     "name": "colorfilter",
     "file": "colorfilter.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "ColorfilterBold"
   },
   {
     "name": "colors-square",
     "file": "colors-square.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "ColorsSquareBold"
   },
   {
     "name": "command",
     "file": "command.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "CommandBold"
   },
   {
     "name": "command-square",
     "file": "command-square.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "CommandSquareBold"
   },
   {
     "name": "component",
     "file": "component.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "ComponentBold"
   },
   {
     "name": "computing",
     "file": "computing.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "ComputingBold"
   },
   {
     "name": "convert",
     "file": "convert.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ConvertBold"
   },
   {
     "name": "convert-3d-cube",
     "file": "convert-3d-cube.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "Convert3dCubeBold"
+  },
+  {
+    "name": "convert-card",
+    "file": "convert-card.svg",
+    "category": "Money",
+    "boldOnly": true,
+    "boldName": "ConvertCardBold"
   },
   {
     "name": "convertshape",
     "file": "convertshape.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "ConvertshapeBold"
   },
   {
     "name": "convertshape-2",
     "file": "convertshape-2.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Convertshape2Bold"
   },
   {
     "name": "copy",
     "file": "copy.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "CopyBold"
   },
   {
     "name": "copy-success",
     "file": "copy-success.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "CopySuccessBold"
   },
   {
     "name": "copyright",
     "file": "copyright.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "CopyrightBold"
   },
   {
     "name": "courthouse",
     "file": "courthouse.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "CourthouseBold"
   },
   {
     "name": "cpu",
     "file": "cpu.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "CpuBold"
   },
   {
     "name": "cpu-charge",
     "file": "cpu-charge.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "CpuChargeBold"
   },
   {
     "name": "cpu-setting",
     "file": "cpu-setting.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "CpuSettingBold"
   },
   {
     "name": "creative-commons",
     "file": "creative-commons.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "CreativeCommonsBold"
   },
   {
     "name": "crop",
     "file": "crop.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "CropBold"
   },
   {
     "name": "crown",
     "file": "crown.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "CrownBold"
+  },
+  {
+    "name": "crown-1",
+    "file": "crown-1.svg",
+    "category": "Essetional",
+    "boldOnly": true,
+    "boldName": "Crown1Bold"
   },
   {
     "name": "cup",
     "file": "cup.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "CupBold"
   },
   {
     "name": "dai-dai",
     "file": "dai-dai.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "DaiDaiBold"
   },
   {
     "name": "danger",
     "file": "danger.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "DangerBold"
   },
   {
     "name": "dash-dash",
     "file": "dash-dash.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "DashDashBold"
   },
   {
     "name": "data",
     "file": "data.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "DataBold"
   },
   {
     "name": "data-2",
     "file": "data-2.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "Data2Bold"
   },
   {
     "name": "decred-dcr",
     "file": "decred-dcr.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "DecredDcrBold"
   },
   {
     "name": "dent-dent",
     "file": "dent-dent.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "DentDentBold"
   },
   {
     "name": "designtools",
     "file": "designtools.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "DesigntoolsBold"
   },
   {
     "name": "device-message",
     "file": "device-message.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DeviceMessageBold"
   },
   {
     "name": "devices",
     "file": "devices.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "DevicesBold"
   },
   {
     "name": "diagram",
     "file": "diagram.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "DiagramBold"
   },
   {
     "name": "diamonds",
     "file": "diamonds.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "DiamondsBold"
   },
   {
     "name": "direct",
     "file": "direct.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DirectBold"
   },
   {
     "name": "direct-down",
     "file": "direct-down.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "DirectDownBold"
   },
   {
     "name": "direct-inbox",
     "file": "direct-inbox.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DirectInboxBold"
   },
   {
     "name": "direct-left",
     "file": "direct-left.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "DirectLeftBold"
   },
   {
     "name": "direct-normal",
     "file": "direct-normal.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DirectNormalBold"
   },
   {
     "name": "direct-notification",
     "file": "direct-notification.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DirectNotificationBold"
   },
   {
     "name": "direct-right",
     "file": "direct-right.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "DirectRightBold"
   },
   {
     "name": "direct-send",
     "file": "direct-send.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DirectSendBold"
   },
   {
     "name": "direct-up",
     "file": "direct-up.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "DirectUpBold"
   },
   {
     "name": "directbox-default",
     "file": "directbox-default.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DirectboxDefaultBold"
   },
   {
     "name": "directbox-notif",
     "file": "directbox-notif.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DirectboxNotifBold"
   },
   {
     "name": "directbox-receive",
     "file": "directbox-receive.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DirectboxReceiveBold"
   },
   {
     "name": "directbox-send",
     "file": "directbox-send.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "DirectboxSendBold"
   },
   {
     "name": "discount-circle",
     "file": "discount-circle.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "DiscountCircleBold"
   },
   {
     "name": "discount-shape",
     "file": "discount-shape.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "DiscountShapeBold"
   },
   {
     "name": "discover",
     "file": "discover.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "DiscoverBold"
   },
   {
     "name": "dislike",
     "file": "dislike.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "DislikeBold"
   },
   {
     "name": "document",
     "file": "document.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "DocumentBold"
   },
   {
     "name": "document-cloud",
     "file": "document-cloud.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentCloudBold"
   },
   {
     "name": "document-code",
     "file": "document-code.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "DocumentCodeBold"
   },
   {
     "name": "document-code-2",
     "file": "document-code-2.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "DocumentCode2Bold"
   },
   {
     "name": "document-copy",
     "file": "document-copy.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentCopyBold"
   },
   {
     "name": "document-download",
     "file": "document-download.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentDownloadBold"
   },
   {
     "name": "document-favorite",
     "file": "document-favorite.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentFavoriteBold"
   },
   {
     "name": "document-filter",
     "file": "document-filter.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentFilterBold"
   },
   {
     "name": "document-forward",
     "file": "document-forward.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentForwardBold"
   },
   {
     "name": "document-like",
     "file": "document-like.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentLikeBold"
   },
   {
     "name": "document-normal",
     "file": "document-normal.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentNormalBold"
   },
   {
     "name": "document-previous",
     "file": "document-previous.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentPreviousBold"
   },
   {
     "name": "document-sketch",
     "file": "document-sketch.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentSketchBold"
   },
   {
     "name": "document-text",
     "file": "document-text.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentTextBold"
   },
   {
     "name": "document-text-1",
     "file": "document-text-1.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentText1Bold"
   },
   {
     "name": "document-upload",
     "file": "document-upload.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "DocumentUploadBold"
   },
   {
     "name": "dollar-circle",
     "file": "dollar-circle.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "DollarCircleBold"
   },
   {
     "name": "dollar-square",
     "file": "dollar-square.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "DollarSquareBold"
   },
   {
     "name": "dribbble",
     "file": "dribbble.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "DribbbleBold"
   },
   {
     "name": "driver",
     "file": "driver.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "DriverBold"
   },
   {
     "name": "driver-2",
     "file": "driver-2.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "Driver2Bold"
   },
   {
     "name": "driver-refresh",
     "file": "driver-refresh.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "DriverRefreshBold"
   },
   {
     "name": "driving",
     "file": "driving.svg",
-    "category": "Car - Linear"
+    "category": "Car - Linear",
+    "hasBold": true,
+    "boldName": "DrivingBold"
   },
   {
     "name": "drop",
     "file": "drop.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "DropBold"
   },
   {
     "name": "dropbox",
     "file": "dropbox.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "DropboxBold"
   },
   {
     "name": "edit",
     "file": "edit.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "EditBold"
   },
   {
     "name": "edit-2",
     "file": "edit-2.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "Edit2Bold"
   },
   {
     "name": "educare-ekt",
     "file": "educare-ekt.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "EducareEktBold"
   },
   {
     "name": "electricity",
     "file": "electricity.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "ElectricityBold"
   },
   {
     "name": "element-1",
@@ -1437,527 +2226,772 @@
   {
     "name": "element-2",
     "file": "element-2.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Element2Bold"
   },
   {
     "name": "element-3",
     "file": "element-3.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Element3Bold"
   },
   {
     "name": "element-4",
     "file": "element-4.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Element4Bold"
   },
   {
     "name": "element-equal",
     "file": "element-equal.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "ElementEqualBold"
   },
   {
     "name": "element-plus",
     "file": "element-plus.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "ElementPlusBold"
   },
   {
     "name": "emercoin-emc",
     "file": "emercoin-emc.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "EmercoinEmcBold"
   },
   {
     "name": "emoji-happy",
     "file": "emoji-happy.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "EmojiHappyBold"
   },
   {
     "name": "emoji-normal",
     "file": "emoji-normal.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "EmojiNormalBold"
   },
   {
     "name": "emoji-sad",
     "file": "emoji-sad.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "EmojiSadBold"
   },
   {
     "name": "empty-wallet",
     "file": "empty-wallet.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "EmptyWalletBold"
   },
   {
     "name": "empty-wallet-add",
     "file": "empty-wallet-add.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "EmptyWalletAddBold"
   },
   {
     "name": "empty-wallet-change",
     "file": "empty-wallet-change.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "EmptyWalletChangeBold"
   },
   {
     "name": "empty-wallet-remove",
     "file": "empty-wallet-remove.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "EmptyWalletRemoveBold"
   },
   {
     "name": "empty-wallet-tick",
     "file": "empty-wallet-tick.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "EmptyWalletTickBold"
   },
   {
     "name": "empty-wallet-time",
     "file": "empty-wallet-time.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "EmptyWalletTimeBold"
   },
   {
     "name": "enjin-coin-enj",
     "file": "enjin-coin-enj.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "EnjinCoinEnjBold"
   },
   {
     "name": "eos-eos",
     "file": "eos-eos.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "EosEosBold"
   },
   {
     "name": "eraser",
     "file": "eraser.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "EraserBold"
   },
   {
     "name": "ethereum-classic-etc",
     "file": "ethereum-classic-etc.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "EthereumClassicEtcBold"
   },
   {
     "name": "ethereum-eth",
     "file": "ethereum-eth.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "EthereumEthBold"
   },
   {
     "name": "export",
     "file": "export.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ExportBold"
+  },
+  {
+    "name": "export-1",
+    "file": "export-1.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "Export1Bold"
+  },
+  {
+    "name": "export-2",
+    "file": "export-2.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "Export2Bold"
+  },
+  {
+    "name": "export-3",
+    "file": "export-3.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "Export3Bold"
   },
   {
     "name": "external-drive",
     "file": "external-drive.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "ExternalDriveBold"
   },
   {
     "name": "eye",
     "file": "eye.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "EyeBold"
   },
   {
     "name": "eye-slash",
     "file": "eye-slash.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "EyeSlashBold"
   },
   {
     "name": "facebook",
     "file": "facebook.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "FacebookBold"
   },
   {
     "name": "fatrows",
     "file": "fatrows.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "FatrowsBold"
   },
   {
     "name": "favorite-chart",
     "file": "favorite-chart.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "FavoriteChartBold"
   },
   {
     "name": "figma",
     "file": "figma.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "FigmaBold"
   },
   {
     "name": "figma-1",
     "file": "figma-1.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "Figma1Bold"
   },
   {
     "name": "filter",
     "file": "filter.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "FilterBold"
   },
   {
     "name": "filter-add",
     "file": "filter-add.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "FilterAddBold"
   },
   {
     "name": "filter-edit",
     "file": "filter-edit.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "FilterEditBold"
   },
   {
     "name": "filter-remove",
     "file": "filter-remove.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "FilterRemoveBold"
   },
   {
     "name": "filter-search",
     "file": "filter-search.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "FilterSearchBold"
   },
   {
     "name": "filter-square",
     "file": "filter-square.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "FilterSquareBold"
   },
   {
     "name": "filter-tick",
     "file": "filter-tick.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "FilterTickBold"
   },
   {
     "name": "finger-cricle",
     "file": "finger-cricle.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "FingerCricleBold"
   },
   {
     "name": "finger-scan",
     "file": "finger-scan.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "FingerScanBold"
   },
   {
     "name": "firstline",
     "file": "firstline.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "FirstlineBold"
   },
   {
     "name": "flag",
     "file": "flag.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "FlagBold"
   },
   {
     "name": "flag-2",
     "file": "flag-2.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "Flag2Bold"
   },
   {
     "name": "flash",
     "file": "flash.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "FlashBold"
   },
   {
     "name": "flash-circle",
     "file": "flash-circle.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "FlashCircleBold"
   },
   {
     "name": "flash-slash",
     "file": "flash-slash.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "FlashSlashBold"
   },
   {
     "name": "folder",
     "file": "folder.svg",
-    "category": "Files"
+    "category": "Files",
+    "hasBold": true,
+    "boldName": "FolderBold"
   },
   {
     "name": "folder-2",
     "file": "folder-2.svg",
-    "category": "Files"
+    "category": "Files",
+    "hasBold": true,
+    "boldName": "Folder2Bold"
   },
   {
     "name": "folder-add",
     "file": "folder-add.svg",
-    "category": "Files"
+    "category": "Files",
+    "hasBold": true,
+    "boldName": "FolderAddBold"
   },
   {
     "name": "folder-cloud",
     "file": "folder-cloud.svg",
-    "category": "Files"
+    "category": "Files",
+    "hasBold": true,
+    "boldName": "FolderCloudBold"
   },
   {
     "name": "folder-connection",
     "file": "folder-connection.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "FolderConnectionBold"
   },
   {
     "name": "folder-cross",
     "file": "folder-cross.svg",
-    "category": "Files"
+    "category": "Files",
+    "hasBold": true,
+    "boldName": "FolderCrossBold"
   },
   {
     "name": "folder-favorite",
     "file": "folder-favorite.svg",
-    "category": "Files"
+    "category": "Files",
+    "hasBold": true,
+    "boldName": "FolderFavoriteBold"
   },
   {
     "name": "folder-minus",
     "file": "folder-minus.svg",
-    "category": "Files"
+    "category": "Files",
+    "hasBold": true,
+    "boldName": "FolderMinusBold"
   },
   {
     "name": "folder-open",
     "file": "folder-open.svg",
-    "category": "Files"
+    "category": "Files",
+    "hasBold": true,
+    "boldName": "FolderOpenBold"
+  },
+  {
+    "name": "forbidden",
+    "file": "forbidden.svg",
+    "category": "Essetional",
+    "boldOnly": true,
+    "boldName": "ForbiddenBold"
+  },
+  {
+    "name": "forbidden-2",
+    "file": "forbidden-2.svg",
+    "category": "Essetional",
+    "boldOnly": true,
+    "boldName": "Forbidden2Bold"
   },
   {
     "name": "format-circle",
     "file": "format-circle.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "FormatCircleBold"
   },
   {
     "name": "format-square",
     "file": "format-square.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "FormatSquareBold"
   },
   {
     "name": "forward",
     "file": "forward.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "ForwardBold"
   },
   {
     "name": "forward-10-seconds",
     "file": "forward-10-seconds.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "Forward10SecondsBold"
   },
   {
     "name": "forward-15-seconds",
     "file": "forward-15-seconds.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "Forward15SecondsBold"
   },
   {
     "name": "forward-5-seconds",
     "file": "forward-5-seconds.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "Forward5SecondsBold"
   },
   {
     "name": "forward-item",
     "file": "forward-item.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "ForwardItemBold"
   },
   {
     "name": "forward-square",
     "file": "forward-square.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ForwardSquareBold"
   },
   {
     "name": "frame",
     "file": "frame.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "FrameBold"
   },
   {
     "name": "frame-1",
     "file": "frame-1.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "Frame1Bold"
   },
   {
     "name": "framer",
     "file": "framer.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "FramerBold"
   },
   {
     "name": "ftx-token-ftt",
     "file": "ftx-token-ftt.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "FtxTokenFttBold"
   },
   {
     "name": "gallery",
     "file": "gallery.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "GalleryBold"
   },
   {
     "name": "gallery-add",
     "file": "gallery-add.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "GalleryAddBold"
   },
   {
     "name": "gallery-edit",
     "file": "gallery-edit.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "GalleryEditBold"
   },
   {
     "name": "gallery-export",
     "file": "gallery-export.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "GalleryExportBold"
   },
   {
     "name": "gallery-favorite",
     "file": "gallery-favorite.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "GalleryFavoriteBold"
   },
   {
     "name": "gallery-import",
     "file": "gallery-import.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "GalleryImportBold"
   },
   {
     "name": "gallery-remove",
     "file": "gallery-remove.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "GalleryRemoveBold"
   },
   {
     "name": "gallery-slash",
     "file": "gallery-slash.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "GallerySlashBold"
   },
   {
     "name": "gallery-tick",
     "file": "gallery-tick.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "GalleryTickBold"
   },
   {
     "name": "game",
     "file": "game.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "GameBold"
   },
   {
     "name": "gameboy",
     "file": "gameboy.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "GameboyBold"
   },
   {
     "name": "gas-station",
     "file": "gas-station.svg",
-    "category": "Car - Linear"
+    "category": "Car - Linear",
+    "hasBold": true,
+    "boldName": "GasStationBold"
   },
   {
     "name": "gemini",
     "file": "gemini.svg",
-    "category": "Astrology"
+    "category": "Astrology",
+    "hasBold": true,
+    "boldName": "GeminiBold"
   },
   {
     "name": "gemini-2",
     "file": "gemini-2.svg",
-    "category": "Astrology"
+    "category": "Astrology",
+    "hasBold": true,
+    "boldName": "Gemini2Bold"
   },
   {
     "name": "ghost",
     "file": "ghost.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "GhostBold"
   },
   {
     "name": "gift",
     "file": "gift.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "GiftBold"
   },
   {
     "name": "glass",
     "file": "glass.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "GlassBold"
   },
   {
     "name": "global",
     "file": "global.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "GlobalBold"
   },
   {
     "name": "global-edit",
     "file": "global-edit.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "GlobalEditBold"
   },
   {
     "name": "global-refresh",
     "file": "global-refresh.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "GlobalRefreshBold"
   },
   {
     "name": "global-search",
     "file": "global-search.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "GlobalSearchBold"
   },
   {
     "name": "google",
     "file": "google.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "GoogleBold"
   },
   {
     "name": "google-1",
     "file": "google-1.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "Google1Bold"
   },
   {
     "name": "google-play",
     "file": "google-play.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "GooglePlayBold"
   },
   {
     "name": "gps",
     "file": "gps.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "GpsBold"
   },
   {
     "name": "gps-slash",
     "file": "gps-slash.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "GpsSlashBold"
   },
   {
     "name": "grammerly",
     "file": "grammerly.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "GrammerlyBold"
   },
   {
     "name": "graph",
     "file": "graph.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "GraphBold"
   },
   {
     "name": "grid-1",
     "file": "grid-1.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Grid1Bold"
   },
   {
     "name": "grid-2",
     "file": "grid-2.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Grid2Bold"
   },
   {
     "name": "grid-3",
     "file": "grid-3.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Grid3Bold"
   },
   {
     "name": "grid-4",
     "file": "grid-4.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Grid4Bold"
   },
   {
     "name": "grid-5",
     "file": "grid-5.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Grid5Bold"
   },
   {
     "name": "grid-6",
     "file": "grid-6.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Grid6Bold"
   },
   {
     "name": "grid-7",
     "file": "grid-7.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Grid7Bold"
   },
   {
     "name": "grid-8",
     "file": "grid-8.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Grid8Bold"
   },
   {
     "name": "grid-9",
     "file": "grid-9.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Grid9Bold"
   },
   {
     "name": "grid-edit",
     "file": "grid-edit.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "GridEditBold"
   },
   {
     "name": "grid-eraser",
     "file": "grid-eraser.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "GridEraserBold"
   },
   {
     "name": "grid-lock",
     "file": "grid-lock.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "GridLockBold"
   },
   {
     "name": "group",
@@ -1967,937 +3001,1437 @@
   {
     "name": "happyemoji",
     "file": "happyemoji.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "HappyemojiBold"
   },
   {
     "name": "harmony-one",
     "file": "harmony-one.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "HarmonyOneBold"
   },
   {
     "name": "hashtag",
     "file": "hashtag.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "HashtagBold"
   },
   {
     "name": "hashtag-down",
     "file": "hashtag-down.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "HashtagDownBold"
   },
   {
     "name": "hashtag-up",
     "file": "hashtag-up.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "HashtagUpBold"
   },
   {
     "name": "headphone",
     "file": "headphone.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "HeadphoneBold"
   },
   {
     "name": "headphones",
     "file": "headphones.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "HeadphonesBold"
   },
   {
     "name": "health",
     "file": "health.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "HealthBold"
   },
   {
     "name": "heart",
     "file": "heart.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "HeartBold"
   },
   {
     "name": "heart-add",
     "file": "heart-add.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "HeartAddBold"
   },
   {
     "name": "heart-circle",
     "file": "heart-circle.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "HeartCircleBold"
   },
   {
     "name": "heart-edit",
     "file": "heart-edit.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "HeartEditBold"
   },
   {
     "name": "heart-remove",
     "file": "heart-remove.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "HeartRemoveBold"
   },
   {
     "name": "heart-search",
     "file": "heart-search.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "HeartSearchBold"
   },
   {
     "name": "heart-slash",
     "file": "heart-slash.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "HeartSlashBold"
   },
   {
     "name": "heart-tick",
     "file": "heart-tick.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "HeartTickBold"
   },
   {
     "name": "hedera-hashgraph-hbar",
     "file": "hedera-hashgraph-hbar.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "HederaHashgraphHbarBold"
   },
   {
     "name": "hex-hex",
     "file": "hex-hex.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "HexHexBold"
   },
   {
     "name": "hierarchy",
     "file": "hierarchy.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "HierarchyBold"
   },
   {
     "name": "hierarchy-2",
     "file": "hierarchy-2.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "Hierarchy2Bold"
   },
   {
     "name": "hierarchy-3",
     "file": "hierarchy-3.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "Hierarchy3Bold"
   },
   {
     "name": "hierarchy-square",
     "file": "hierarchy-square.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "HierarchySquareBold"
   },
   {
     "name": "hierarchy-square-2",
     "file": "hierarchy-square-2.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "HierarchySquare2Bold"
   },
   {
     "name": "hierarchy-square-3",
     "file": "hierarchy-square-3.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "HierarchySquare3Bold"
   },
   {
     "name": "home",
     "file": "home.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "HomeBold"
+  },
+  {
+    "name": "home-1",
+    "file": "home-1.svg",
+    "category": "Essetional",
+    "boldOnly": true,
+    "boldName": "Home1Bold"
   },
   {
     "name": "home-2",
     "file": "home-2.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "Home2Bold"
   },
   {
     "name": "home-hashtag",
     "file": "home-hashtag.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "HomeHashtagBold"
   },
   {
     "name": "home-trend-down",
     "file": "home-trend-down.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "HomeTrendDownBold"
   },
   {
     "name": "home-trend-up",
     "file": "home-trend-up.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "HomeTrendUpBold"
   },
   {
     "name": "home-wifi",
     "file": "home-wifi.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "HomeWifiBold"
   },
   {
     "name": "hospital",
     "file": "hospital.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "HospitalBold"
   },
   {
     "name": "house",
     "file": "house.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "HouseBold"
   },
   {
     "name": "house-2",
     "file": "house-2.svg",
-    "category": "Building"
+    "category": "Building",
+    "hasBold": true,
+    "boldName": "House2Bold"
   },
   {
     "name": "html-3",
     "file": "html-3.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "Html3Bold"
   },
   {
     "name": "html-5",
     "file": "html-5.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "Html5Bold"
   },
   {
     "name": "huobi-token-ht",
     "file": "huobi-token-ht.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "HuobiTokenHtBold"
+  },
+  {
+    "name": "icon",
+    "file": "icon.svg",
+    "category": "Company",
+    "boldOnly": true,
+    "boldName": "IconBold"
+  },
+  {
+    "name": "icon-1",
+    "file": "icon-1.svg",
+    "category": "Company",
+    "boldOnly": true,
+    "boldName": "Icon1Bold"
   },
   {
     "name": "icon-icx",
     "file": "icon-icx.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "IconIcxBold"
   },
   {
     "name": "illustrator",
     "file": "illustrator.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "IllustratorBold"
   },
   {
     "name": "image",
     "file": "image.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "ImageBold"
   },
   {
     "name": "import",
     "file": "import.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ImportBold"
+  },
+  {
+    "name": "import-1",
+    "file": "import-1.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "Import1Bold"
+  },
+  {
+    "name": "import-2",
+    "file": "import-2.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "Import2Bold"
+  },
+  {
+    "name": "import-3",
+    "file": "import-3.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "Import3Bold"
   },
   {
     "name": "info-circle",
     "file": "info-circle.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "InfoCircleBold"
   },
   {
     "name": "information",
     "file": "information.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "InformationBold"
   },
   {
     "name": "instagram",
     "file": "instagram.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "InstagramBold"
   },
   {
     "name": "iost-iost",
     "file": "iost-iost.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "IostIostBold"
   },
   {
     "name": "java-script",
     "file": "java-script.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "JavaScriptBold"
   },
   {
     "name": "js",
     "file": "js.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "JsBold"
   },
   {
     "name": "judge",
     "file": "judge.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "JudgeBold"
   },
   {
     "name": "kanban",
     "file": "kanban.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "KanbanBold"
   },
   {
     "name": "key",
     "file": "key.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "KeyBold"
   },
   {
     "name": "key-square",
     "file": "key-square.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "KeySquareBold"
   },
   {
     "name": "keyboard",
     "file": "keyboard.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "KeyboardBold"
   },
   {
     "name": "keyboard-open",
     "file": "keyboard-open.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "KeyboardOpenBold"
   },
   {
     "name": "kyber-network-knc",
     "file": "kyber-network-knc.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "KyberNetworkKncBold"
   },
   {
     "name": "lamp",
     "file": "lamp.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "LampBold"
   },
   {
     "name": "lamp-charge",
     "file": "lamp-charge.svg",
-    "category": "Notifications"
+    "category": "Notifications",
+    "hasBold": true,
+    "boldName": "LampChargeBold"
   },
   {
     "name": "lamp-on",
     "file": "lamp-on.svg",
-    "category": "Notifications"
+    "category": "Notifications",
+    "hasBold": true,
+    "boldName": "LampOnBold"
   },
   {
     "name": "lamp-slash",
     "file": "lamp-slash.svg",
-    "category": "Notifications"
+    "category": "Notifications",
+    "hasBold": true,
+    "boldName": "LampSlashBold"
   },
   {
     "name": "language-circle",
     "file": "language-circle.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "LanguageCircleBold"
   },
   {
     "name": "language-square",
     "file": "language-square.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "LanguageSquareBold"
   },
   {
     "name": "layer",
     "file": "layer.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "LayerBold"
   },
   {
     "name": "level",
     "file": "level.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "LevelBold"
   },
   {
     "name": "lifebuoy",
     "file": "lifebuoy.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "LifebuoyBold"
   },
   {
     "name": "like",
     "file": "like.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "LikeBold"
+  },
+  {
+    "name": "like-1",
+    "file": "like-1.svg",
+    "category": "Support, Like, Question",
+    "boldOnly": true,
+    "boldName": "Like1Bold"
   },
   {
     "name": "like-dislike",
     "file": "like-dislike.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "LikeDislikeBold"
   },
   {
     "name": "like-shapes",
     "file": "like-shapes.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "LikeShapesBold"
   },
   {
     "name": "like-tag",
     "file": "like-tag.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "LikeTagBold"
   },
   {
     "name": "link",
     "file": "link.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "LinkBold"
+  },
+  {
+    "name": "link-1",
+    "file": "link-1.svg",
+    "category": "Type, Paragraph, Character",
+    "boldOnly": true,
+    "boldName": "Link1Bold"
   },
   {
     "name": "link-2",
     "file": "link-2.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "Link2Bold"
+  },
+  {
+    "name": "link-21",
+    "file": "link-21.svg",
+    "category": "Type, Paragraph, Character",
+    "boldOnly": true,
+    "boldName": "Link21Bold"
   },
   {
     "name": "link-circle",
     "file": "link-circle.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "LinkCircleBold"
   },
   {
     "name": "link-square",
     "file": "link-square.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "LinkSquareBold"
   },
   {
     "name": "litecoin-ltc",
     "file": "litecoin-ltc.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "LitecoinLtcBold"
   },
   {
     "name": "location",
     "file": "location.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "LocationBold"
   },
   {
     "name": "location-add",
     "file": "location-add.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "LocationAddBold"
   },
   {
     "name": "location-cross",
     "file": "location-cross.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "LocationCrossBold"
   },
   {
     "name": "location-minus",
     "file": "location-minus.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "LocationMinusBold"
   },
   {
     "name": "location-slash",
     "file": "location-slash.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "LocationSlashBold"
   },
   {
     "name": "location-tick",
     "file": "location-tick.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "LocationTickBold"
   },
   {
     "name": "lock",
     "file": "lock.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "LockBold"
   },
   {
     "name": "lock-1",
     "file": "lock-1.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "Lock1Bold"
   },
   {
     "name": "lock-circle",
     "file": "lock-circle.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "LockCircleBold"
   },
   {
     "name": "lock-slash",
     "file": "lock-slash.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "LockSlashBold"
   },
   {
     "name": "login",
     "file": "login.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "LoginBold"
+  },
+  {
+    "name": "login-1",
+    "file": "login-1.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "Login1Bold"
   },
   {
     "name": "logout",
     "file": "logout.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "LogoutBold"
+  },
+  {
+    "name": "logout-1",
+    "file": "logout-1.svg",
+    "category": "Arrow",
+    "boldOnly": true,
+    "boldName": "Logout1Bold"
   },
   {
     "name": "lovely",
     "file": "lovely.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "LovelyBold"
   },
   {
     "name": "magic-star",
     "file": "magic-star.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "MagicStarBold"
   },
   {
     "name": "magicpen",
     "file": "magicpen.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "MagicpenBold"
   },
   {
     "name": "main-component",
     "file": "main-component.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "MainComponentBold"
   },
   {
     "name": "maker-mkr",
     "file": "maker-mkr.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "MakerMkrBold"
   },
   {
     "name": "man",
     "file": "man.svg",
-    "category": "Astrology"
+    "category": "Astrology",
+    "hasBold": true,
+    "boldName": "ManBold"
   },
   {
     "name": "map",
     "file": "map.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "MapBold"
+  },
+  {
+    "name": "map-1",
+    "file": "map-1.svg",
+    "category": "Location",
+    "boldOnly": true,
+    "boldName": "Map1Bold"
   },
   {
     "name": "mask",
     "file": "mask.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "MaskBold"
+  },
+  {
+    "name": "mask-1",
+    "file": "mask-1.svg",
+    "category": "Design, Tools",
+    "boldOnly": true,
+    "boldName": "Mask1Bold"
+  },
+  {
+    "name": "mask-2",
+    "file": "mask-2.svg",
+    "category": "Design, Tools",
+    "boldOnly": true,
+    "boldName": "Mask2Bold"
   },
   {
     "name": "math",
     "file": "math.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MathBold"
   },
   {
     "name": "maximize",
     "file": "maximize.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "MaximizeBold"
   },
   {
     "name": "maximize-1",
     "file": "maximize-1.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Maximize1Bold"
   },
   {
     "name": "maximize-2",
     "file": "maximize-2.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Maximize2Bold"
   },
   {
     "name": "maximize-3",
     "file": "maximize-3.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Maximize3Bold"
   },
   {
     "name": "maximize-4",
     "file": "maximize-4.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "Maximize4Bold"
   },
   {
     "name": "maximize-circle",
     "file": "maximize-circle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MaximizeCircleBold"
   },
   {
     "name": "medal",
     "file": "medal.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "MedalBold"
   },
   {
     "name": "medal-star",
     "file": "medal-star.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "MedalStarBold"
   },
   {
     "name": "menu",
     "file": "menu.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MenuBold"
   },
   {
     "name": "menu-board",
     "file": "menu-board.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "MenuBoardBold"
   },
   {
     "name": "message",
     "file": "message.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageBold"
   },
   {
     "name": "message-2",
     "file": "message-2.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "Message2Bold"
   },
   {
     "name": "message-add",
     "file": "message-add.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageAddBold"
+  },
+  {
+    "name": "message-add-1",
+    "file": "message-add-1.svg",
+    "category": "Emails, Messages",
+    "boldOnly": true,
+    "boldName": "MessageAdd1Bold"
   },
   {
     "name": "message-circle",
     "file": "message-circle.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageCircleBold"
   },
   {
     "name": "message-edit",
     "file": "message-edit.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageEditBold"
   },
   {
     "name": "message-favorite",
     "file": "message-favorite.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageFavoriteBold"
   },
   {
     "name": "message-minus",
     "file": "message-minus.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageMinusBold"
   },
   {
     "name": "message-notif",
     "file": "message-notif.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageNotifBold"
   },
   {
     "name": "message-programming",
     "file": "message-programming.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "MessageProgrammingBold"
   },
   {
     "name": "message-question",
     "file": "message-question.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "MessageQuestionBold"
   },
   {
     "name": "message-remove",
     "file": "message-remove.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageRemoveBold"
   },
   {
     "name": "message-search",
     "file": "message-search.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageSearchBold"
   },
   {
     "name": "message-square",
     "file": "message-square.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageSquareBold"
   },
   {
     "name": "message-text",
     "file": "message-text.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageTextBold"
+  },
+  {
+    "name": "message-text-1",
+    "file": "message-text-1.svg",
+    "category": "Emails, Messages",
+    "boldOnly": true,
+    "boldName": "MessageText1Bold"
   },
   {
     "name": "message-tick",
     "file": "message-tick.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageTickBold"
   },
   {
     "name": "message-time",
     "file": "message-time.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessageTimeBold"
   },
   {
     "name": "messages",
     "file": "messages.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "MessagesBold"
+  },
+  {
+    "name": "messages-1",
+    "file": "messages-1.svg",
+    "category": "Emails, Messages",
+    "boldOnly": true,
+    "boldName": "Messages1Bold"
   },
   {
     "name": "messages-2",
     "file": "messages-2.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "Messages2Bold"
   },
   {
     "name": "messages-3",
     "file": "messages-3.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "Messages3Bold"
   },
   {
     "name": "messenger",
     "file": "messenger.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "MessengerBold"
   },
   {
     "name": "microphone",
     "file": "microphone.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MicrophoneBold"
   },
   {
     "name": "microphone-2",
     "file": "microphone-2.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "Microphone2Bold"
   },
   {
     "name": "microphone-slash",
     "file": "microphone-slash.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MicrophoneSlashBold"
   },
   {
     "name": "microphone-slash-1",
     "file": "microphone-slash-1.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MicrophoneSlash1Bold"
   },
   {
     "name": "microscope",
     "file": "microscope.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "MicroscopeBold"
   },
   {
     "name": "milk",
     "file": "milk.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MilkBold"
   },
   {
     "name": "mini-music-sqaure",
     "file": "mini-music-sqaure.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MiniMusicSqaureBold"
   },
   {
     "name": "minus",
     "file": "minus.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MinusBold"
   },
   {
     "name": "minus-cirlce",
     "file": "minus-cirlce.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MinusCirlceBold"
   },
   {
     "name": "minus-square",
     "file": "minus-square.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MinusSquareBold"
   },
   {
     "name": "mirror",
     "file": "mirror.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MirrorBold"
   },
   {
     "name": "mirroring-screen",
     "file": "mirroring-screen.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "MirroringScreenBold"
   },
   {
     "name": "mobile",
     "file": "mobile.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "MobileBold"
   },
   {
     "name": "mobile-programming",
     "file": "mobile-programming.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "MobileProgrammingBold"
   },
   {
     "name": "monero-xmr",
     "file": "monero-xmr.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "MoneroXmrBold"
   },
   {
     "name": "money",
     "file": "money.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneyBold"
   },
   {
     "name": "money-2",
     "file": "money-2.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "Money2Bold"
   },
   {
     "name": "money-3",
     "file": "money-3.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "Money3Bold"
   },
   {
     "name": "money-4",
     "file": "money-4.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "Money4Bold"
   },
   {
     "name": "money-add",
     "file": "money-add.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneyAddBold"
   },
   {
     "name": "money-change",
     "file": "money-change.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneyChangeBold"
   },
   {
     "name": "money-forbidden",
     "file": "money-forbidden.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneyForbiddenBold"
   },
   {
     "name": "money-recive",
     "file": "money-recive.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneyReciveBold"
   },
   {
     "name": "money-remove",
     "file": "money-remove.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneyRemoveBold"
   },
   {
     "name": "money-send",
     "file": "money-send.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneySendBold"
   },
   {
     "name": "money-tick",
     "file": "money-tick.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneyTickBold"
   },
   {
     "name": "money-time",
     "file": "money-time.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneyTimeBold"
   },
   {
     "name": "moneys",
     "file": "moneys.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "MoneysBold"
   },
   {
     "name": "monitor",
     "file": "monitor.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "MonitorBold"
   },
   {
     "name": "monitor-mobbile",
     "file": "monitor-mobbile.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "MonitorMobbileBold"
   },
   {
     "name": "monitor-recorder",
     "file": "monitor-recorder.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "MonitorRecorderBold"
   },
   {
     "name": "moon",
     "file": "moon.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "MoonBold"
   },
   {
     "name": "more",
     "file": "more.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "MoreBold"
   },
   {
     "name": "more-2",
     "file": "more-2.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "More2Bold"
   },
   {
     "name": "more-circle",
     "file": "more-circle.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MoreCircleBold"
   },
   {
     "name": "more-square",
     "file": "more-square.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MoreSquareBold"
   },
   {
     "name": "mouse",
     "file": "mouse.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "MouseBold"
   },
   {
     "name": "mouse-circle",
     "file": "mouse-circle.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MouseCircleBold"
   },
   {
     "name": "mouse-square",
     "file": "mouse-square.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "MouseSquareBold"
   },
   {
     "name": "music",
     "file": "music.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicBold"
   },
   {
     "name": "music-circle",
     "file": "music-circle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicCircleBold"
   },
   {
     "name": "music-dashboard",
     "file": "music-dashboard.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicDashboardBold"
   },
   {
     "name": "music-filter",
     "file": "music-filter.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicFilterBold"
   },
   {
     "name": "music-library-2",
     "file": "music-library-2.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicLibrary2Bold"
   },
   {
     "name": "music-play",
     "file": "music-play.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "MusicPlayBold"
   },
   {
     "name": "music-playlist",
     "file": "music-playlist.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicPlaylistBold"
   },
   {
     "name": "music-square",
     "file": "music-square.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicSquareBold"
   },
   {
     "name": "music-square-add",
     "file": "music-square-add.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicSquareAddBold"
   },
   {
     "name": "music-square-remove",
     "file": "music-square-remove.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicSquareRemoveBold"
   },
   {
     "name": "music-square-search",
     "file": "music-square-search.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicSquareSearchBold"
   },
   {
     "name": "musicnote",
     "file": "musicnote.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "MusicnoteBold"
   },
   {
     "name": "nebulas-nas",
     "file": "nebulas-nas.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "NebulasNasBold"
   },
   {
     "name": "nem-xem",
     "file": "nem-xem.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "NemXemBold"
   },
   {
     "name": "nexo-nexo",
     "file": "nexo-nexo.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "NexoNexoBold"
   },
   {
     "name": "next",
     "file": "next.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "NextBold"
   },
   {
     "name": "note",
     "file": "note.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "NoteBold"
   },
   {
     "name": "note-1",
     "file": "note-1.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "Note1Bold"
   },
   {
     "name": "note-2",
     "file": "note-2.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "Note2Bold"
   },
   {
     "name": "note-add",
     "file": "note-add.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "NoteAddBold"
   },
   {
     "name": "note-favorite",
     "file": "note-favorite.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "NoteFavoriteBold"
   },
   {
     "name": "note-remove",
     "file": "note-remove.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "NoteRemoveBold"
   },
   {
     "name": "note-square",
     "file": "note-square.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "NoteSquareBold"
   },
   {
     "name": "note-text",
     "file": "note-text.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "NoteTextBold"
   },
   {
     "name": "notification",
     "file": "notification.svg",
-    "category": "Notifications"
+    "category": "Notifications",
+    "hasBold": true,
+    "boldName": "NotificationBold"
+  },
+  {
+    "name": "notification-1",
+    "file": "notification-1.svg",
+    "category": "Notifications",
+    "boldOnly": true,
+    "boldName": "Notification1Bold"
   },
   {
     "name": "notification-bing",
     "file": "notification-bing.svg",
-    "category": "Notifications"
+    "category": "Notifications",
+    "hasBold": true,
+    "boldName": "NotificationBingBold"
   },
   {
     "name": "notification-circle",
@@ -2907,207 +4441,296 @@
   {
     "name": "notification-favorite",
     "file": "notification-favorite.svg",
-    "category": "Notifications"
+    "category": "Notifications",
+    "hasBold": true,
+    "boldName": "NotificationFavoriteBold"
   },
   {
     "name": "notification-status",
     "file": "notification-status.svg",
-    "category": "Notifications"
+    "category": "Notifications",
+    "hasBold": true,
+    "boldName": "NotificationStatusBold"
   },
   {
     "name": "ocean-protocol-ocean",
     "file": "ocean-protocol-ocean.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "OceanProtocolOceanBold"
   },
   {
     "name": "okb-okb",
     "file": "okb-okb.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "OkbOkbBold"
   },
   {
     "name": "omega-circle",
     "file": "omega-circle.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "OmegaCircleBold"
   },
   {
     "name": "omega-square",
     "file": "omega-square.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "OmegaSquareBold"
   },
   {
     "name": "ontology-ont",
     "file": "ontology-ont.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "OntologyOntBold"
   },
   {
     "name": "paintbucket",
     "file": "paintbucket.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "PaintbucketBold"
   },
   {
     "name": "paperclip",
     "file": "paperclip.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "PaperclipBold"
   },
   {
     "name": "paperclip-2",
     "file": "paperclip-2.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "Paperclip2Bold"
   },
   {
     "name": "password-check",
     "file": "password-check.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "PasswordCheckBold"
   },
   {
     "name": "path",
     "file": "path.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "PathBold"
   },
   {
     "name": "path-2",
     "file": "path-2.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "Path2Bold"
   },
   {
     "name": "path-square",
     "file": "path-square.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "PathSquareBold"
   },
   {
     "name": "pause",
     "file": "pause.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "PauseBold"
   },
   {
     "name": "pause-circle",
     "file": "pause-circle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "PauseCircleBold"
   },
   {
     "name": "paypal",
     "file": "paypal.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "PaypalBold"
   },
   {
     "name": "pen-add",
     "file": "pen-add.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "PenAddBold"
   },
   {
     "name": "pen-close",
     "file": "pen-close.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "PenCloseBold"
   },
   {
     "name": "pen-remove",
     "file": "pen-remove.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "PenRemoveBold"
   },
   {
     "name": "pen-tool",
     "file": "pen-tool.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "PenToolBold"
   },
   {
     "name": "pen-tool-2",
     "file": "pen-tool-2.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "PenTool2Bold"
   },
   {
     "name": "people",
     "file": "people.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "PeopleBold"
+  },
+  {
+    "name": "percentage-circle",
+    "file": "percentage-circle.svg",
+    "category": "Money",
+    "boldOnly": true,
+    "boldName": "PercentageCircleBold"
   },
   {
     "name": "percentage-square",
     "file": "percentage-square.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "PercentageSquareBold"
   },
   {
     "name": "personalcard",
     "file": "personalcard.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "PersonalcardBold"
   },
   {
     "name": "pet",
     "file": "pet.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "PetBold"
   },
   {
     "name": "pharagraphspacing",
     "file": "pharagraphspacing.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "PharagraphspacingBold"
   },
   {
     "name": "photoshop",
     "file": "photoshop.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "PhotoshopBold"
   },
   {
     "name": "picture-frame",
     "file": "picture-frame.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "PictureFrameBold"
   },
   {
     "name": "play",
     "file": "play.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "PlayBold"
   },
   {
     "name": "play-add",
     "file": "play-add.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "PlayAddBold"
   },
   {
     "name": "play-circle",
     "file": "play-circle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "PlayCircleBold"
   },
   {
     "name": "play-cricle",
     "file": "play-cricle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "PlayCricleBold"
   },
   {
     "name": "play-remove",
     "file": "play-remove.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "PlayRemoveBold"
   },
   {
     "name": "polkadot-dot",
     "file": "polkadot-dot.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "PolkadotDotBold"
   },
   {
     "name": "polygon-matic",
     "file": "polygon-matic.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "PolygonMaticBold"
   },
   {
     "name": "polyswarm-nct",
     "file": "polyswarm-nct.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "PolyswarmNctBold"
   },
   {
     "name": "presention-chart",
     "file": "presention-chart.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "PresentionChartBold"
   },
   {
     "name": "previous",
     "file": "previous.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "PreviousBold"
   },
   {
     "name": "printer",
     "file": "printer.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "PrinterBold"
   },
   {
     "name": "printer-slash",
     "file": "printer-slash.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "PrinterSlashBold"
   },
   {
     "name": "profile",
@@ -3117,427 +4740,646 @@
   {
     "name": "profile-2user",
     "file": "profile-2user.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "Profile2userBold"
   },
   {
     "name": "profile-add",
     "file": "profile-add.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "ProfileAddBold"
   },
   {
     "name": "profile-circle",
     "file": "profile-circle.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "ProfileCircleBold"
   },
   {
     "name": "profile-delete",
     "file": "profile-delete.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "ProfileDeleteBold"
   },
   {
     "name": "profile-remove",
     "file": "profile-remove.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "ProfileRemoveBold"
   },
   {
     "name": "profile-tick",
     "file": "profile-tick.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "ProfileTickBold"
   },
   {
     "name": "programming-arrow",
     "file": "programming-arrow.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "ProgrammingArrowBold"
   },
   {
     "name": "programming-arrows",
     "file": "programming-arrows.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "ProgrammingArrowsBold"
   },
   {
     "name": "python",
     "file": "python.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "PythonBold"
   },
   {
     "name": "quant-qnt",
     "file": "quant-qnt.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "QuantQntBold"
   },
   {
     "name": "quote-down",
     "file": "quote-down.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "QuoteDownBold"
   },
   {
     "name": "quote-down-circle",
     "file": "quote-down-circle.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "QuoteDownCircleBold"
   },
   {
     "name": "quote-down-square",
     "file": "quote-down-square.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "QuoteDownSquareBold"
   },
   {
     "name": "quote-up",
     "file": "quote-up.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "QuoteUpBold"
   },
   {
     "name": "quote-up-circle",
     "file": "quote-up-circle.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "QuoteUpCircleBold"
   },
   {
     "name": "quote-up-square",
     "file": "quote-up-square.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "QuoteUpSquareBold"
   },
   {
     "name": "radar",
     "file": "radar.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "RadarBold"
   },
   {
     "name": "radar-2",
     "file": "radar-2.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "Radar2Bold"
   },
   {
     "name": "radio",
     "file": "radio.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "RadioBold"
   },
   {
     "name": "ram",
     "file": "ram.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "RamBold"
   },
   {
     "name": "ram-2",
     "file": "ram-2.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "Ram2Bold"
   },
   {
     "name": "ranking",
     "file": "ranking.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "RankingBold"
   },
   {
     "name": "receipt",
     "file": "receipt.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ReceiptBold"
+  },
+  {
+    "name": "receipt-1",
+    "file": "receipt-1.svg",
+    "category": "Money",
+    "boldOnly": true,
+    "boldName": "Receipt1Bold"
   },
   {
     "name": "receipt-2",
     "file": "receipt-2.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "Receipt2Bold"
+  },
+  {
+    "name": "receipt-2-1",
+    "file": "receipt-2-1.svg",
+    "category": "Money",
+    "boldOnly": true,
+    "boldName": "Receipt21Bold"
   },
   {
     "name": "receipt-add",
     "file": "receipt-add.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ReceiptAddBold"
   },
   {
     "name": "receipt-discount",
     "file": "receipt-discount.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ReceiptDiscountBold"
   },
   {
     "name": "receipt-disscount",
     "file": "receipt-disscount.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ReceiptDisscountBold"
   },
   {
     "name": "receipt-edit",
     "file": "receipt-edit.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ReceiptEditBold"
   },
   {
     "name": "receipt-item",
     "file": "receipt-item.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ReceiptItemBold"
   },
   {
     "name": "receipt-minus",
     "file": "receipt-minus.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ReceiptMinusBold"
   },
   {
     "name": "receipt-search",
     "file": "receipt-search.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ReceiptSearchBold"
   },
   {
     "name": "receipt-square",
     "file": "receipt-square.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "ReceiptSquareBold"
   },
   {
     "name": "receipt-text",
     "file": "receipt-text.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "ReceiptTextBold"
   },
   {
     "name": "receive-square",
     "file": "receive-square.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ReceiveSquareBold"
   },
   {
     "name": "receive-square-2",
     "file": "receive-square-2.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ReceiveSquare2Bold"
   },
   {
     "name": "received",
     "file": "received.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "ReceivedBold"
   },
   {
     "name": "record",
     "file": "record.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "RecordBold"
   },
   {
     "name": "record-circle",
     "file": "record-circle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "RecordCircleBold"
   },
   {
     "name": "recovery-convert",
     "file": "recovery-convert.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "RecoveryConvertBold"
   },
   {
     "name": "redo",
     "file": "redo.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RedoBold"
   },
   {
     "name": "refresh",
     "file": "refresh.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RefreshBold"
   },
   {
     "name": "refresh-2",
     "file": "refresh-2.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "Refresh2Bold"
   },
   {
     "name": "refresh-circle",
     "file": "refresh-circle.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RefreshCircleBold"
   },
   {
     "name": "refresh-left-square",
     "file": "refresh-left-square.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RefreshLeftSquareBold"
   },
   {
     "name": "refresh-right-square",
     "file": "refresh-right-square.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RefreshRightSquareBold"
   },
   {
     "name": "refresh-square-2",
     "file": "refresh-square-2.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RefreshSquare2Bold"
   },
   {
     "name": "repeat",
     "file": "repeat.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RepeatBold"
   },
   {
     "name": "repeat-circle",
     "file": "repeat-circle.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RepeatCircleBold"
   },
   {
     "name": "repeate-music",
     "file": "repeate-music.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "RepeateMusicBold"
   },
   {
     "name": "repeate-one",
     "file": "repeate-one.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "RepeateOneBold"
   },
   {
     "name": "reserve",
     "file": "reserve.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "ReserveBold"
   },
   {
     "name": "rotate-left",
     "file": "rotate-left.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RotateLeftBold"
   },
   {
     "name": "rotate-right",
     "file": "rotate-right.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "RotateRightBold"
   },
   {
     "name": "route-square",
     "file": "route-square.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "RouteSquareBold"
   },
   {
     "name": "routing",
     "file": "routing.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "RoutingBold"
   },
   {
     "name": "routing-2",
     "file": "routing-2.svg",
-    "category": "Location"
+    "category": "Location",
+    "hasBold": true,
+    "boldName": "Routing2Bold"
   },
   {
     "name": "row-horizontal",
     "file": "row-horizontal.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "RowHorizontalBold"
   },
   {
     "name": "row-vertical",
     "file": "row-vertical.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "RowVerticalBold"
   },
   {
     "name": "ruler",
     "file": "ruler.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "RulerBold"
   },
   {
     "name": "ruler-pen",
     "file": "ruler-pen.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "RulerPenBold"
   },
   {
     "name": "safe-home",
     "file": "safe-home.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "SafeHomeBold"
   },
   {
     "name": "sagittarius",
     "file": "sagittarius.svg",
-    "category": "Astrology"
+    "category": "Astrology",
+    "hasBold": true,
+    "boldName": "SagittariusBold"
   },
   {
     "name": "save-2",
     "file": "save-2.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "Save2Bold"
   },
   {
     "name": "save-add",
     "file": "save-add.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "SaveAddBold"
   },
   {
     "name": "save-minus",
     "file": "save-minus.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "SaveMinusBold"
   },
   {
     "name": "save-remove",
     "file": "save-remove.svg",
-    "category": "Archive"
+    "category": "Archive",
+    "hasBold": true,
+    "boldName": "SaveRemoveBold"
   },
   {
     "name": "scan",
     "file": "scan.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "ScanBold"
   },
   {
     "name": "scan-barcode",
     "file": "scan-barcode.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "ScanBarcodeBold"
   },
   {
     "name": "scanner",
     "file": "scanner.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "ScannerBold"
   },
   {
     "name": "scanning",
     "file": "scanning.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "ScanningBold"
   },
   {
     "name": "scissor",
     "file": "scissor.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "ScissorBold"
   },
   {
     "name": "screenmirroring",
     "file": "screenmirroring.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "ScreenmirroringBold"
   },
   {
     "name": "scroll",
     "file": "scroll.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "ScrollBold"
   },
   {
     "name": "search-favorite",
     "file": "search-favorite.svg",
-    "category": "Search"
+    "category": "Search",
+    "hasBold": true,
+    "boldName": "SearchFavoriteBold"
+  },
+  {
+    "name": "search-favorite-1",
+    "file": "search-favorite-1.svg",
+    "category": "Search",
+    "boldOnly": true,
+    "boldName": "SearchFavorite1Bold"
   },
   {
     "name": "search-normal",
     "file": "search-normal.svg",
-    "category": "Search"
+    "category": "Search",
+    "hasBold": true,
+    "boldName": "SearchNormalBold"
+  },
+  {
+    "name": "search-normal-1",
+    "file": "search-normal-1.svg",
+    "category": "Search",
+    "boldOnly": true,
+    "boldName": "SearchNormal1Bold"
   },
   {
     "name": "search-status",
     "file": "search-status.svg",
-    "category": "Search"
+    "category": "Search",
+    "hasBold": true,
+    "boldName": "SearchStatusBold"
+  },
+  {
+    "name": "search-status-1",
+    "file": "search-status-1.svg",
+    "category": "Search",
+    "boldOnly": true,
+    "boldName": "SearchStatus1Bold"
   },
   {
     "name": "search-zoom-in",
     "file": "search-zoom-in.svg",
-    "category": "Search"
+    "category": "Search",
+    "hasBold": true,
+    "boldName": "SearchZoomInBold"
+  },
+  {
+    "name": "search-zoom-in-1",
+    "file": "search-zoom-in-1.svg",
+    "category": "Search",
+    "boldOnly": true,
+    "boldName": "SearchZoomIn1Bold"
   },
   {
     "name": "search-zoom-out",
     "file": "search-zoom-out.svg",
-    "category": "Search"
+    "category": "Search",
+    "hasBold": true,
+    "boldName": "SearchZoomOutBold"
+  },
+  {
+    "name": "search-zoom-out-1",
+    "file": "search-zoom-out-1.svg",
+    "category": "Search",
+    "boldOnly": true,
+    "boldName": "SearchZoomOut1Bold"
   },
   {
     "name": "security",
     "file": "security.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "SecurityBold"
   },
   {
     "name": "security-card",
     "file": "security-card.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "SecurityCardBold"
   },
   {
     "name": "security-safe",
     "file": "security-safe.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "SecuritySafeBold"
   },
   {
     "name": "security-time",
     "file": "security-time.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "SecurityTimeBold"
   },
   {
     "name": "security-user",
     "file": "security-user.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "SecurityUserBold"
   },
   {
     "name": "send",
     "file": "send.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "SendBold"
   },
   {
     "name": "send-2",
     "file": "send-2.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "Send2Bold"
   },
   {
     "name": "send-rotate",
@@ -3547,52 +5389,79 @@
   {
     "name": "send-sqaure-2",
     "file": "send-sqaure-2.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "SendSqaure2Bold"
   },
   {
     "name": "send-square",
     "file": "send-square.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "SendSquareBold"
   },
   {
     "name": "setting",
     "file": "setting.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "SettingBold"
   },
   {
     "name": "setting-2",
     "file": "setting-2.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "Setting2Bold"
   },
   {
     "name": "setting-3",
     "file": "setting-3.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "Setting3Bold"
   },
   {
     "name": "setting-4",
     "file": "setting-4.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "Setting4Bold"
   },
   {
     "name": "setting-5",
     "file": "setting-5.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "Setting5Bold"
   },
   {
     "name": "settings",
     "file": "settings.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "SettingsBold"
   },
   {
     "name": "shapes",
     "file": "shapes.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "ShapesBold"
+  },
+  {
+    "name": "shapes-1",
+    "file": "shapes-1.svg",
+    "category": "Design, Tools",
+    "boldOnly": true,
+    "boldName": "Shapes1Bold"
   },
   {
     "name": "share",
     "file": "share.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "ShareBold"
   },
   {
     "name": "shield",
@@ -3602,916 +5471,1345 @@
   {
     "name": "shield-cross",
     "file": "shield-cross.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "ShieldCrossBold"
   },
   {
     "name": "shield-search",
     "file": "shield-search.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "ShieldSearchBold"
   },
   {
     "name": "shield-security",
     "file": "shield-security.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "ShieldSecurityBold"
   },
   {
     "name": "shield-slash",
     "file": "shield-slash.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "ShieldSlashBold"
   },
   {
     "name": "shield-tick",
     "file": "shield-tick.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "ShieldTickBold"
   },
   {
     "name": "ship",
     "file": "ship.svg",
-    "category": "Car - Linear"
+    "category": "Car - Linear",
+    "hasBold": true,
+    "boldName": "ShipBold"
   },
   {
     "name": "shop",
     "file": "shop.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "ShopBold"
   },
   {
     "name": "shop-add",
     "file": "shop-add.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "ShopAddBold"
   },
   {
     "name": "shop-remove",
     "file": "shop-remove.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "ShopRemoveBold"
   },
   {
     "name": "shopping-bag",
     "file": "shopping-bag.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "ShoppingBagBold"
   },
   {
     "name": "shopping-cart",
     "file": "shopping-cart.svg",
-    "category": "Shop"
+    "category": "Shop",
+    "hasBold": true,
+    "boldName": "ShoppingCartBold"
+  },
+  {
+    "name": "shuffle",
+    "file": "shuffle.svg",
+    "category": "Video, Audio, Image",
+    "boldOnly": true,
+    "boldName": "ShuffleBold"
   },
   {
     "name": "siacoin-sc",
     "file": "siacoin-sc.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "SiacoinScBold"
   },
   {
     "name": "sidebar-bottom",
     "file": "sidebar-bottom.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "SidebarBottomBold"
   },
   {
     "name": "sidebar-left",
     "file": "sidebar-left.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "SidebarLeftBold"
   },
   {
     "name": "sidebar-right",
     "file": "sidebar-right.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "SidebarRightBold"
   },
   {
     "name": "sidebar-top",
     "file": "sidebar-top.svg",
-    "category": "Programing"
+    "category": "Programing",
+    "hasBold": true,
+    "boldName": "SidebarTopBold"
   },
   {
     "name": "signpost",
     "file": "signpost.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "SignpostBold"
   },
   {
     "name": "simcard",
     "file": "simcard.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "SimcardBold"
+  },
+  {
+    "name": "simcard-1",
+    "file": "simcard-1.svg",
+    "category": "Computers, Devices, Electronics",
+    "boldOnly": true,
+    "boldName": "Simcard1Bold"
   },
   {
     "name": "simcard-2",
     "file": "simcard-2.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "Simcard2Bold"
   },
   {
     "name": "size",
     "file": "size.svg",
-    "category": "Design, Tools"
+    "category": "Design, Tools",
+    "hasBold": true,
+    "boldName": "SizeBold"
   },
   {
     "name": "slack",
     "file": "slack.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "SlackBold"
   },
   {
     "name": "slash",
     "file": "slash.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "SlashBold"
   },
   {
     "name": "slider",
     "file": "slider.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "SliderBold"
   },
   {
     "name": "slider-horizontal",
     "file": "slider-horizontal.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "SliderHorizontalBold"
   },
   {
     "name": "slider-horizontal-1",
     "file": "slider-horizontal-1.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "SliderHorizontal1Bold"
   },
   {
     "name": "slider-vertical",
     "file": "slider-vertical.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "SliderVerticalBold"
   },
   {
     "name": "slider-vertical-1",
     "file": "slider-vertical-1.svg",
-    "category": "Grid"
+    "category": "Grid",
+    "hasBold": true,
+    "boldName": "SliderVertical1Bold"
   },
   {
     "name": "smallcaps",
     "file": "smallcaps.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "SmallcapsBold"
   },
   {
     "name": "smart-car",
     "file": "smart-car.svg",
-    "category": "Car - Linear"
+    "category": "Car - Linear",
+    "hasBold": true,
+    "boldName": "SmartCarBold"
   },
   {
     "name": "smart-home",
     "file": "smart-home.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "SmartHomeBold"
   },
   {
     "name": "smileys",
     "file": "smileys.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "SmileysBold"
   },
   {
     "name": "sms",
     "file": "sms.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "SmsBold"
   },
   {
     "name": "sms-edit",
     "file": "sms-edit.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "SmsEditBold"
   },
   {
     "name": "sms-notification",
     "file": "sms-notification.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "SmsNotificationBold"
   },
   {
     "name": "sms-search",
     "file": "sms-search.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "SmsSearchBold"
   },
   {
     "name": "sms-star",
     "file": "sms-star.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "SmsStarBold"
   },
   {
     "name": "sms-tracking",
     "file": "sms-tracking.svg",
-    "category": "Emails, Messages"
+    "category": "Emails, Messages",
+    "hasBold": true,
+    "boldName": "SmsTrackingBold"
   },
   {
     "name": "snapchat",
     "file": "snapchat.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "SnapchatBold"
   },
   {
     "name": "solana-sol",
     "file": "solana-sol.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "SolanaSolBold"
   },
   {
     "name": "sort",
     "file": "sort.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "SortBold"
   },
   {
     "name": "sound",
     "file": "sound.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "SoundBold"
   },
   {
     "name": "speaker",
     "file": "speaker.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "SpeakerBold"
   },
   {
     "name": "speedometer",
     "file": "speedometer.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "SpeedometerBold"
   },
   {
     "name": "spotify",
     "file": "spotify.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "SpotifyBold"
   },
   {
     "name": "stacks-stx",
     "file": "stacks-stx.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "StacksStxBold"
   },
   {
     "name": "star",
     "file": "star.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "StarBold"
+  },
+  {
+    "name": "star-1",
+    "file": "star-1.svg",
+    "category": "Support, Like, Question",
+    "boldOnly": true,
+    "boldName": "Star1Bold"
   },
   {
     "name": "star-slash",
     "file": "star-slash.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "StarSlashBold"
   },
   {
     "name": "status",
     "file": "status.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "StatusBold"
   },
   {
     "name": "status-up",
     "file": "status-up.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "StatusUpBold"
   },
   {
     "name": "stellar-xlm",
     "file": "stellar-xlm.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "StellarXlmBold"
   },
   {
     "name": "sticker",
     "file": "sticker.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "StickerBold"
   },
   {
     "name": "stickynote",
     "file": "stickynote.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "StickynoteBold"
   },
   {
     "name": "stop",
     "file": "stop.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "StopBold"
   },
   {
     "name": "stop-circle",
     "file": "stop-circle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "StopCircleBold"
   },
   {
     "name": "story",
     "file": "story.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "StoryBold"
   },
   {
     "name": "strongbox",
     "file": "strongbox.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "StrongboxBold"
   },
   {
     "name": "strongbox-2",
     "file": "strongbox-2.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "Strongbox2Bold"
   },
   {
     "name": "subtitle",
     "file": "subtitle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "SubtitleBold"
   },
   {
     "name": "sun",
     "file": "sun.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "SunBold"
+  },
+  {
+    "name": "sun-1",
+    "file": "sun-1.svg",
+    "category": "Weather",
+    "boldOnly": true,
+    "boldName": "Sun1Bold"
   },
   {
     "name": "sun-fog",
     "file": "sun-fog.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "SunFogBold"
   },
   {
     "name": "tag",
     "file": "tag.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "TagBold"
   },
   {
     "name": "tag-2",
     "file": "tag-2.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "Tag2Bold"
   },
   {
     "name": "tag-cross",
     "file": "tag-cross.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "TagCrossBold"
   },
   {
     "name": "tag-right",
     "file": "tag-right.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "TagRightBold"
   },
   {
     "name": "tag-user",
     "file": "tag-user.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "TagUserBold"
   },
   {
     "name": "task",
     "file": "task.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "TaskBold"
   },
   {
     "name": "task-square",
     "file": "task-square.svg",
-    "category": "Content"
+    "category": "Content",
+    "hasBold": true,
+    "boldName": "TaskSquareBold"
   },
   {
     "name": "teacher",
     "file": "teacher.svg",
-    "category": "School, Learning"
+    "category": "School, Learning",
+    "hasBold": true,
+    "boldName": "TeacherBold"
   },
   {
     "name": "tenx-pay",
     "file": "tenx-pay.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "TenxPayBold"
   },
   {
     "name": "tether-usdt",
     "file": "tether-usdt.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "TetherUsdtBold"
   },
   {
     "name": "text",
     "file": "text.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextBold2"
   },
   {
     "name": "text-block",
     "file": "text-block.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextBlockBold"
   },
   {
     "name": "text-bold",
     "file": "text-bold.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextBoldBold"
   },
   {
     "name": "text-italic",
     "file": "text-italic.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextItalicBold"
   },
   {
     "name": "text-underline",
     "file": "text-underline.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextUnderlineBold"
   },
   {
     "name": "textalign-center",
     "file": "textalign-center.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextalignCenterBold"
   },
   {
     "name": "textalign-justifycenter",
     "file": "textalign-justifycenter.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextalignJustifycenterBold"
   },
   {
     "name": "textalign-justifyleft",
     "file": "textalign-justifyleft.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextalignJustifyleftBold"
   },
   {
     "name": "textalign-justifyright",
     "file": "textalign-justifyright.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextalignJustifyrightBold"
   },
   {
     "name": "textalign-left",
     "file": "textalign-left.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextalignLeftBold"
   },
   {
     "name": "textalign-right",
     "file": "textalign-right.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TextalignRightBold"
   },
   {
     "name": "the-graph-grt",
     "file": "the-graph-grt.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "TheGraphGrtBold"
   },
   {
     "name": "theta-theta",
     "file": "theta-theta.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "ThetaThetaBold"
   },
   {
     "name": "thorchain-rune",
     "file": "thorchain-rune.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "ThorchainRuneBold"
   },
   {
     "name": "tick-circle",
     "file": "tick-circle.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "TickCircleBold"
   },
   {
     "name": "tick-square",
     "file": "tick-square.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "TickSquareBold"
   },
   {
     "name": "ticket",
     "file": "ticket.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "TicketBold"
   },
   {
     "name": "ticket-2",
     "file": "ticket-2.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "Ticket2Bold"
   },
   {
     "name": "ticket-discount",
     "file": "ticket-discount.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "TicketDiscountBold"
   },
   {
     "name": "ticket-expired",
     "file": "ticket-expired.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "TicketExpiredBold"
   },
   {
     "name": "ticket-star",
     "file": "ticket-star.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "TicketStarBold"
   },
   {
     "name": "timer",
     "file": "timer.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "TimerBold"
+  },
+  {
+    "name": "timer-1",
+    "file": "timer-1.svg",
+    "category": "Time",
+    "boldOnly": true,
+    "boldName": "Timer1Bold"
   },
   {
     "name": "timer-pause",
     "file": "timer-pause.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "TimerPauseBold"
   },
   {
     "name": "timer-start",
     "file": "timer-start.svg",
-    "category": "Time"
+    "category": "Time",
+    "hasBold": true,
+    "boldName": "TimerStartBold"
   },
   {
     "name": "toggle-off",
     "file": "toggle-off.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "ToggleOffBold"
   },
   {
     "name": "toggle-off-circle",
     "file": "toggle-off-circle.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "ToggleOffCircleBold"
   },
   {
     "name": "toggle-on",
     "file": "toggle-on.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "ToggleOnBold"
   },
   {
     "name": "toggle-on-circle",
     "file": "toggle-on-circle.svg",
-    "category": "Settings"
+    "category": "Settings",
+    "hasBold": true,
+    "boldName": "ToggleOnCircleBold"
   },
   {
     "name": "trade",
     "file": "trade.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "TradeBold"
   },
   {
     "name": "transaction-minus",
     "file": "transaction-minus.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "TransactionMinusBold"
   },
   {
     "name": "translate",
     "file": "translate.svg",
-    "category": "Type, Paragraph, Character"
+    "category": "Type, Paragraph, Character",
+    "hasBold": true,
+    "boldName": "TranslateBold"
   },
   {
     "name": "trash",
     "file": "trash.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "TrashBold"
   },
   {
     "name": "tree",
     "file": "tree.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "TreeBold"
   },
   {
     "name": "trello",
     "file": "trello.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "TrelloBold"
   },
   {
     "name": "trend-down",
     "file": "trend-down.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "TrendDownBold"
   },
   {
     "name": "trend-up",
     "file": "trend-up.svg",
-    "category": "Business"
+    "category": "Business",
+    "hasBold": true,
+    "boldName": "TrendUpBold"
   },
   {
     "name": "triangle",
     "file": "triangle.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "TriangleBold"
   },
   {
     "name": "trontron-trx",
     "file": "trontron-trx.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "TrontronTrxBold"
+  },
+  {
+    "name": "truck",
+    "file": "truck.svg",
+    "category": "Delivery",
+    "boldOnly": true,
+    "boldName": "TruckBold"
+  },
+  {
+    "name": "truck-fast",
+    "file": "truck-fast.svg",
+    "category": "Delivery",
+    "boldOnly": true,
+    "boldName": "TruckFastBold"
   },
   {
     "name": "truck-remove",
     "file": "truck-remove.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "TruckRemoveBold"
   },
   {
     "name": "truck-tick",
     "file": "truck-tick.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "TruckTickBold"
   },
   {
     "name": "truck-time",
     "file": "truck-time.svg",
-    "category": "Delivery"
+    "category": "Delivery",
+    "hasBold": true,
+    "boldName": "TruckTimeBold"
   },
   {
     "name": "trush-square",
     "file": "trush-square.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "TrushSquareBold"
   },
   {
     "name": "twitch",
     "file": "twitch.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "TwitchBold"
   },
   {
     "name": "ui8",
     "file": "ui8.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "Ui8Bold"
   },
   {
     "name": "undo",
     "file": "undo.svg",
-    "category": "Arrow"
+    "category": "Arrow",
+    "hasBold": true,
+    "boldName": "UndoBold"
   },
   {
     "name": "unlimited",
     "file": "unlimited.svg",
-    "category": "Support, Like, Question"
+    "category": "Support, Like, Question",
+    "hasBold": true,
+    "boldName": "UnlimitedBold"
   },
   {
     "name": "unlock",
     "file": "unlock.svg",
-    "category": "Security"
+    "category": "Security",
+    "hasBold": true,
+    "boldName": "UnlockBold"
   },
   {
     "name": "usd-coin-usdc",
     "file": "usd-coin-usdc.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "UsdCoinUsdcBold"
   },
   {
     "name": "user",
     "file": "user.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserBold"
   },
   {
     "name": "user-add",
     "file": "user-add.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserAddBold"
   },
   {
     "name": "user-cirlce-add",
     "file": "user-cirlce-add.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserCirlceAddBold"
   },
   {
     "name": "user-edit",
     "file": "user-edit.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserEditBold"
   },
   {
     "name": "user-minus",
     "file": "user-minus.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserMinusBold"
   },
   {
     "name": "user-octagon",
     "file": "user-octagon.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserOctagonBold"
   },
   {
     "name": "user-remove",
     "file": "user-remove.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserRemoveBold"
   },
   {
     "name": "user-search",
     "file": "user-search.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserSearchBold"
   },
   {
     "name": "user-square",
     "file": "user-square.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserSquareBold"
   },
   {
     "name": "user-tag",
     "file": "user-tag.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserTagBold"
   },
   {
     "name": "user-tick",
     "file": "user-tick.svg",
-    "category": "Users"
+    "category": "Users",
+    "hasBold": true,
+    "boldName": "UserTickBold"
   },
   {
     "name": "velas-vlx",
     "file": "velas-vlx.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "VelasVlxBold"
   },
   {
     "name": "verify",
     "file": "verify.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "VerifyBold"
   },
   {
     "name": "vibe-vibe",
     "file": "vibe-vibe.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "VibeVibeBold"
   },
   {
     "name": "video",
     "file": "video.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoBold"
   },
   {
     "name": "video-add",
     "file": "video-add.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoAddBold"
   },
   {
     "name": "video-circle",
     "file": "video-circle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoCircleBold"
   },
   {
     "name": "video-horizontal",
     "file": "video-horizontal.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoHorizontalBold"
   },
   {
     "name": "video-octagon",
     "file": "video-octagon.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoOctagonBold"
   },
   {
     "name": "video-play",
     "file": "video-play.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoPlayBold"
   },
   {
     "name": "video-remove",
     "file": "video-remove.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoRemoveBold"
   },
   {
     "name": "video-slash",
     "file": "video-slash.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoSlashBold"
   },
   {
     "name": "video-square",
     "file": "video-square.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoSquareBold"
   },
   {
     "name": "video-tick",
     "file": "video-tick.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoTickBold"
   },
   {
     "name": "video-time",
     "file": "video-time.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoTimeBold"
   },
   {
     "name": "video-vertical",
     "file": "video-vertical.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VideoVerticalBold"
   },
   {
     "name": "voice-cricle",
     "file": "voice-cricle.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VoiceCricleBold"
   },
   {
     "name": "voice-square",
     "file": "voice-square.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VoiceSquareBold"
   },
   {
     "name": "volume-cross",
     "file": "volume-cross.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VolumeCrossBold"
   },
   {
     "name": "volume-high",
     "file": "volume-high.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VolumeHighBold"
   },
   {
     "name": "volume-low",
     "file": "volume-low.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VolumeLowBold"
   },
   {
     "name": "volume-low-1",
     "file": "volume-low-1.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VolumeLow1Bold"
   },
   {
     "name": "volume-mute",
     "file": "volume-mute.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VolumeMuteBold"
   },
   {
     "name": "volume-slash",
     "file": "volume-slash.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VolumeSlashBold"
   },
   {
     "name": "volume-up",
     "file": "volume-up.svg",
-    "category": "Video, Audio, Image"
+    "category": "Video, Audio, Image",
+    "hasBold": true,
+    "boldName": "VolumeUpBold"
   },
   {
     "name": "vuesax",
     "file": "vuesax.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "VuesaxBold"
   },
   {
     "name": "wallet",
     "file": "wallet.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "WalletBold"
+  },
+  {
+    "name": "wallet-1",
+    "file": "wallet-1.svg",
+    "category": "Money",
+    "boldOnly": true,
+    "boldName": "Wallet1Bold"
   },
   {
     "name": "wallet-2",
     "file": "wallet-2.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "Wallet2Bold"
   },
   {
     "name": "wallet-3",
     "file": "wallet-3.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "Wallet3Bold"
   },
   {
     "name": "wallet-add",
     "file": "wallet-add.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "WalletAddBold"
+  },
+  {
+    "name": "wallet-add-1",
+    "file": "wallet-add-1.svg",
+    "category": "Money",
+    "boldOnly": true,
+    "boldName": "WalletAdd1Bold"
   },
   {
     "name": "wallet-check",
     "file": "wallet-check.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "WalletCheckBold"
   },
   {
     "name": "wallet-minus",
     "file": "wallet-minus.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "WalletMinusBold"
   },
   {
     "name": "wallet-money",
     "file": "wallet-money.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "WalletMoneyBold"
   },
   {
     "name": "wallet-remove",
     "file": "wallet-remove.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "WalletRemoveBold"
   },
   {
     "name": "wallet-search",
     "file": "wallet-search.svg",
-    "category": "Money"
+    "category": "Money",
+    "hasBold": true,
+    "boldName": "WalletSearchBold"
   },
   {
     "name": "wanchain-wan",
     "file": "wanchain-wan.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "WanchainWanBold"
   },
   {
     "name": "wanchain-wan-1",
     "file": "wanchain-wan-1.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "WanchainWan1Bold"
   },
   {
     "name": "warning-2",
     "file": "warning-2.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "Warning2Bold"
   },
   {
     "name": "watch",
     "file": "watch.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "WatchBold"
   },
   {
     "name": "watch-status",
     "file": "watch-status.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "WatchStatusBold"
   },
   {
     "name": "weight",
     "file": "weight.svg",
-    "category": "Computers, Devices, Electronics"
+    "category": "Computers, Devices, Electronics",
+    "hasBold": true,
+    "boldName": "WeightBold"
   },
   {
     "name": "whatsapp",
     "file": "whatsapp.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "WhatsappBold"
   },
   {
     "name": "wifi",
     "file": "wifi.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "WifiBold"
   },
   {
     "name": "wifi-square",
     "file": "wifi-square.svg",
-    "category": "Essetional"
+    "category": "Essetional",
+    "hasBold": true,
+    "boldName": "WifiSquareBold"
   },
   {
     "name": "wind",
     "file": "wind.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "WindBold"
   },
   {
     "name": "wind-2",
     "file": "wind-2.svg",
-    "category": "Weather"
+    "category": "Weather",
+    "hasBold": true,
+    "boldName": "Wind2Bold"
   },
   {
     "name": "windows",
     "file": "windows.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "WindowsBold"
   },
   {
     "name": "wing-wing",
     "file": "wing-wing.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "WingWingBold"
   },
   {
     "name": "woman",
     "file": "woman.svg",
-    "category": "Astrology"
+    "category": "Astrology",
+    "hasBold": true,
+    "boldName": "WomanBold"
   },
   {
     "name": "xd",
     "file": "xd.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "XdBold"
   },
   {
     "name": "xiaomi",
     "file": "xiaomi.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "XiaomiBold"
   },
   {
     "name": "xrp-xrp",
     "file": "xrp-xrp.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "XrpXrpBold"
   },
   {
     "name": "youtube",
     "file": "youtube.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "YoutubeBold"
   },
   {
     "name": "zel-zel",
     "file": "zel-zel.svg",
-    "category": "Crypto Currency"
+    "category": "Crypto Currency",
+    "hasBold": true,
+    "boldName": "ZelZelBold"
   },
   {
     "name": "zoom",
     "file": "zoom.svg",
-    "category": "Company"
+    "category": "Company",
+    "hasBold": true,
+    "boldName": "ZoomBold"
   }
 ]

@@ -1,0 +1,6 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+import { Ref, forwardRef } from "react";
+const Grid8Bold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M22 7.81v3.44h-5.25V2.03c3.3.2 5.25 2.33 5.25 5.78m0 4.94v3.44c0 3.45-1.95 5.58-5.25 5.78v-9.22zm-14.75 0v9.22C3.95 21.77 2 19.64 2 16.19v-3.44zm0-10.72v9.22H2V7.81c0-3.45 1.95-5.58 5.25-5.78m8-.03h-6.5v9.25h6.5zm0 10.75h-6.5V22h6.5z" /></svg>;
+const ForwardRef = forwardRef(Grid8Bold);
+export default ForwardRef;

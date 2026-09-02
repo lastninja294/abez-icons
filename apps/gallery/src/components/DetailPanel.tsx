@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import * as Icons from '@abez/icons';
 import { CloseCircle, Code, Copy, DocumentDownload, TickCircle } from '@abez/icons';
 import type { IconMeta } from '../lib/icons';
-import { jsxSnippet, toPascalCase } from '../lib/icons';
+import { jsxSnippet, primaryComponentName } from '../lib/icons';
 
 const IconComponents = Icons as unknown as Record<
   string,
@@ -25,7 +25,7 @@ export default function DetailPanel({ icon, onClose }: DetailPanelProps) {
   const [copied, setCopied] = useState<CopyState>('idle');
   const svgRef = useRef<SVGSVGElement>(null);
 
-  const componentName = toPascalCase(icon.name);
+  const componentName = primaryComponentName(icon);
   const Comp = IconComponents[componentName];
 
   useEffect(() => {
