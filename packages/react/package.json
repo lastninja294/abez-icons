@@ -1,6 +1,6 @@
 {
   "name": "@abez/icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A clean, consistent icon set for React — tree-shakeable, one component per icon.",
   "keywords": ["icons", "react", "svg", "icon-library", "component"],
   "license": "MIT",
