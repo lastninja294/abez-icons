@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const CloudAddBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M12 11.53c-2.76 0-5 2.24-5 5 0 .74.16 1.44.46 2.06q.12.27.27.51A4.96 4.96 0 0 0 12 21.53c1.82 0 3.41-.98 4.27-2.43q.15-.24.27-.51c.3-.62.46-1.32.46-2.06 0-2.76-2.24-5-5-5m2.07 4.57-2.13 1.97c-.14.13-.33.2-.51.2-.19 0-.38-.07-.53-.22l-.99-.99a.754.754 0 0 1 0-1.06c.29-.29.77-.29 1.06 0l.48.48 1.6-1.48c.31-.28.78-.26 1.06.04s.26.77-.04 1.06" /><path fill="currentColor" d="M20.2 17.07q-.54.48-1.17.81c-.36.18-.72-.17-.66-.57q.06-.435.06-.9c0-3.58-2.92-6.5-6.5-6.5s-6.5 2.92-6.5 6.5c0 .46.05.9.14 1.33.07.35-.2.7-.55.61-3.95-.96-3.97-7.04.45-7.35h.05C2.31 2.07 15.85-1.5 17.4 7.88c4.33.55 6.08 6.32 2.8 9.19" /></svg>;
-const ForwardRef = forwardRef(CloudAddBold);
+const ForwardRef = /* @__PURE__ */ forwardRef(CloudAddBold);
 export default ForwardRef;

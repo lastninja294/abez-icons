@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const DataBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M20 14.25a2.25 2.25 0 1 0 0-4.5 2.25 2.25 0 0 0 0 4.5m0-8a2.25 2.25 0 1 0 0-4.5 2.25 2.25 0 0 0 0 4.5m0 16a2.25 2.25 0 1 0 0-4.5 2.25 2.25 0 0 0 0 4.5m-16-8a2.25 2.25 0 1 0 0-4.5 2.25 2.25 0 0 0 0 4.5" /><path fill="currentColor" d="M19 12.75c.41 0 .75-.34.75-.75s-.34-.75-.75-.75h-7.25V7c0-1.58.67-2.25 2.25-2.25h5c.41 0 .75-.34.75-.75s-.34-.75-.75-.75h-5c-2.42 0-3.75 1.33-3.75 3.75v4.25H5c-.41 0-.75.34-.75.75s.34.75.75.75h5.25V17c0 2.42 1.33 3.75 3.75 3.75h5c.41 0 .75-.34.75-.75s-.34-.75-.75-.75h-5c-1.58 0-2.25-.67-2.25-2.25v-4.25z" /></svg>;
-const ForwardRef = forwardRef(DataBold);
+const ForwardRef = /* @__PURE__ */ forwardRef(DataBold);
 export default ForwardRef;

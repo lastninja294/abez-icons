@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const MusicBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M20.89 5.18v11.3c0 1.98-1.61 3.59-3.59 3.59a3.6 3.6 0 0 1-3.59-3.59c0-1.97 1.62-3.58 3.59-3.58.84 0 1.59.29 2.2.77V7.72l-9.21 2.62v8.07A3.6 3.6 0 0 1 6.7 22c-1.98 0-3.59-1.61-3.59-3.59 0-1.97 1.61-3.58 3.59-3.58.83 0 1.58.29 2.19.76V6.75c0-1.47.89-2.61 2.3-2.99l5.78-1.58c1.17-.32 2.16-.21 2.86.33.71.53 1.06 1.43 1.06 2.67" /></svg>;
-const ForwardRef = forwardRef(MusicBold);
+const ForwardRef = /* @__PURE__ */ forwardRef(MusicBold);
 export default ForwardRef;

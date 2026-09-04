@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const ArrowCircleUpBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2m4.06 11.79c-.15.15-.34.22-.53.22s-.38-.07-.53-.22l-3-3-3 3c-.29.29-.77.29-1.06 0a.754.754 0 0 1 0-1.06l3.53-3.53c.29-.29.77-.29 1.06 0l3.53 3.53c.29.3.29.77 0 1.06" /></svg>;
-const ForwardRef = forwardRef(ArrowCircleUpBold);
+const ForwardRef = /* @__PURE__ */ forwardRef(ArrowCircleUpBold);
 export default ForwardRef;

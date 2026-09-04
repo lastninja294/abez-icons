@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const BoxSearchBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="m17.6 5.31-5.65-3.04a2.02 2.02 0 0 0-1.91 0L4.4 5.31c-.41.23-.67.67-.67 1.15 0 .49.25.93.67 1.15l5.65 3.04a2 2 0 0 0 1.9 0l5.65-3.04c.41-.22.67-.66.67-1.15 0-.48-.26-.92-.67-1.15m-8.48 6.4L3.87 9.09A1.286 1.286 0 0 0 2 10.24v4.96c0 .86.48 1.63 1.25 2.02l5.25 2.62c.18.09.38.14.58.14.23 0 .47-.07.68-.19.38-.24.61-.65.61-1.1v-4.96c-.01-.86-.49-1.63-1.25-2.02M20 10.24v2.46c-.48-.14-.99-.2-1.5-.2-1.36 0-2.69.47-3.74 1.31-1.44 1.13-2.26 2.84-2.26 4.69 0 .49.06.98.19 1.45-.15-.02-.3-.08-.44-.17-.38-.23-.61-.64-.61-1.09v-4.96c0-.86.48-1.63 1.24-2.02l5.25-2.62A1.286 1.286 0 0 1 20 10.24" /><path fill="currentColor" d="m22.58 21.5-.84-.84c.44-.66.7-1.46.7-2.31a4.22 4.22 0 1 0-4.22 4.22c.85 0 1.65-.26 2.31-.7l.84.84c.17.17.38.25.6.25s.44-.08.6-.25c.34-.34.34-.88.01-1.21" /></svg>;
-const ForwardRef = forwardRef(BoxSearchBold);
+const ForwardRef = /* @__PURE__ */ forwardRef(BoxSearchBold);
 export default ForwardRef;

@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const Maximize1 = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 9V6.5C2 4.01 4.01 2 6.5 2H9m6 0h2.5C19.99 2 22 4.01 22 6.5V9m0 7v1.5c0 2.49-2.01 4.5-4.5 4.5H16m-7 0H6.5C4.01 22 2 19.99 2 17.5V15m16-3v-2M6 12h12zm0 0v-2zm0 0v2zm12 0v2zm-6-6h2m-2 12V6zm0 0h2zm0 0h-2zm0-12h-2z" /></svg>;
-const ForwardRef = forwardRef(Maximize1);
+const ForwardRef = /* @__PURE__ */ forwardRef(Maximize1);
 export default ForwardRef;

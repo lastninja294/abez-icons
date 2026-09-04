@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const AlignHorizontallyBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M4.75 17.4V6.6c0-1.5.64-2.1 2.23-2.1h1.04c1.59 0 2.23.6 2.23 2.1v10.8c0 1.5-.64 2.1-2.23 2.1H6.98c-1.59 0-2.23-.6-2.23-2.1m0-4.65h-2c-.41 0-.75-.34-.75-.75s.34-.75.75-.75h2zm8.5-1.5h-3v1.5h3zm8 1.5h-2.5v-1.5h2.5c.41 0 .75.34.75.75s-.34.75-.75.75m-8 2.65V8.6c0-1.5.64-2.1 2.23-2.1h1.04c1.59 0 2.23.6 2.23 2.1v6.8c0 1.5-.64 2.1-2.23 2.1h-1.04c-1.59 0-2.23-.6-2.23-2.1" /></svg>;
-const ForwardRef = forwardRef(AlignHorizontallyBold);
+const ForwardRef = /* @__PURE__ */ forwardRef(AlignHorizontallyBold);
 export default ForwardRef;

@@ -61,7 +61,13 @@ async function generateComponent(svg: string, componentName: string) {
       /\(\s*props:\s*SVGProps<SVGSVGElement>\s*,\s*ref:\s*(React\.)?Ref<SVGSVGElement>\s*\)/,
       '({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: $1Ref<SVGSVGElement>)',
     )
-    .replace('<svg', '<svg width={size} height={size}');
+    .replace('<svg', '<svg width={size} height={size}')
+    // SVGR emits `const ForwardRef = forwardRef(Foo);` with no purity hint.
+    // Bundlers can't prove a call to an externally-imported `forwardRef` has
+    // no side effects, so without this annotation they keep every icon's
+    // module-level code (SVG paths included) even when the icon is never
+    // imported — silently defeating tree-shaking for the whole package.
+    .replace('= forwardRef(', '= /* @__PURE__ */ forwardRef(');
 }
 
 async function main() {

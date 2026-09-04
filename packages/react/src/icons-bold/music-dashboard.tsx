@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const MusicDashboardBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M7 3.25v17.5c0 .64-.61 1.15-1.23.98C3.37 21.05 2 19.09 2 16.19V7.81c0-2.9 1.37-4.86 3.77-5.54C6.39 2.1 7 2.6 7 3.25m5.47 11.12a.68.68 0 0 0-.68.68c0 .37.31.68.68.68.38 0 .69-.31.69-.68a.69.69 0 0 0-.69-.68m5.05-.92c-.38 0-.69.31-.69.69s.31.68.69.68.69-.31.69-.68-.31-.69-.69-.69" /><path fill="currentColor" d="M16.19 2H9.5c-.55 0-1 .45-1 1v18c0 .55.45 1 1 1h6.69C19.4 22 22 19.4 22 16.19V7.81C22 4.6 19.4 2 16.19 2m3.41 7.74v4.4c0 .01-.01.02-.01.03a2.074 2.074 0 0 1-2.07 2.04c-1.14 0-2.07-.93-2.07-2.07s.93-2.07 2.07-2.07c.24 0 .47.05.69.13v-1.55l-3.67 1v3.42c0 .01-.01.02-.01.03a2.074 2.074 0 0 1-2.07 2.04c-1.14 0-2.07-.93-2.07-2.07S11.32 13 12.46 13c.24 0 .47.05.69.13V9.5c0-.86.53-1.56 1.36-1.77l2.75-.76c.86-.23 1.39 0 1.69.23.43.33.64.85.64 1.55v.99z" /></svg>;
-const ForwardRef = forwardRef(MusicDashboardBold);
+const ForwardRef = /* @__PURE__ */ forwardRef(MusicDashboardBold);
 export default ForwardRef;

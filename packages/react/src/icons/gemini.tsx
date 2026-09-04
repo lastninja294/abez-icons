@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const Gemini = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 2a19.45 19.45 0 0 0 20 0M2 22a19.45 19.45 0 0 1 20 0" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m5.3 3.58.13.24a17.63 17.63 0 0 1-.1 16.59m13.34 0a17.68 17.68 0 0 1-.1-16.59l.13-.24" /></svg>;
-const ForwardRef = forwardRef(Gemini);
+const ForwardRef = /* @__PURE__ */ forwardRef(Gemini);
 export default ForwardRef;

@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const RecoveryConvert = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 22 22" ref={ref} {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13.66 11.594v2.793c0 2.333-.93 3.264-3.264 3.264H7.613c-2.323 0-3.264-.931-3.264-3.264v-2.793c0-2.323.931-3.254 3.264-3.254h2.793c2.323 0 3.255.93 3.255 3.254" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.651 7.603v2.793c0 2.333-.931 3.265-3.264 3.265h-.727v-2.067c0-2.323-.93-3.254-3.264-3.254H8.34v-.737c0-2.333.932-3.254 3.265-3.254h2.793c2.323 0 3.254.931 3.254 3.254" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.535} d="M21.233 14.07a7.16 7.16 0 0 1-7.163 7.163l1.074-1.791M.767 7.93A7.16 7.16 0 0 1 7.93.767L6.856 2.558" /></svg>;
-const ForwardRef = forwardRef(RecoveryConvert);
+const ForwardRef = /* @__PURE__ */ forwardRef(RecoveryConvert);
 export default ForwardRef;

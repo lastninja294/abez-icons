@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const BitcoinBtc = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path stroke="#17191C" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit={10} strokeWidth={1.5} d="M9 8.38h4.685c1.038 0 1.88.935 1.88 1.882a1.88 1.88 0 0 1-1.88 1.88H9z" /><path stroke="#17191C" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit={10} strokeWidth={1.5} d="M9 12.13h5.354c1.188 0 2.146.843 2.146 1.881s-.958 1.881-2.146 1.881H9zm3.277 3.75v1.882M9.935 15.88v1.882M12.277 6.5v1.88M9.935 6.5v1.88m.842 0H7.5m3.277 7.5H7.5" /><path stroke="#17191C" strokeMiterlimit={10} strokeWidth={1.5} d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z" /></svg>;
-const ForwardRef = forwardRef(BitcoinBtc);
+const ForwardRef = /* @__PURE__ */ forwardRef(BitcoinBtc);
 export default ForwardRef;

@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const HashtagDown = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22 13V9c0-5-2-7-7-7H9C4 2 2 4 2 9v6c0 5 2 7 7 7h5" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 16v6l2-2m-2 2-2-2M9.95 6.26 8.9 15.73m4.21-9.47-1.05 9.47M6.53 9.42H16M6 12.58h9.47" /></svg>;
-const ForwardRef = forwardRef(HashtagDown);
+const ForwardRef = /* @__PURE__ */ forwardRef(HashtagDown);
 export default ForwardRef;

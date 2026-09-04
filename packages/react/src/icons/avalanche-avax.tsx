@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const AvalancheAvax = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path stroke="#17191C" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit={10} strokeWidth={1.5} d="M6.1 15.6 11.7 6c.2-.3.6-.3.8 0L14 8c.4.6.5 1.4.1 2l-3.3 5.3c-.3.5-.9.9-1.5.9H6.4c-.3.1-.5-.3-.3-.6m9.1-3.2-1.9 3.2c-.2.3 0 .7.4.7h3.8c.4 0 .6-.4.4-.7L16 12.4c-.2-.3-.6-.3-.8 0" /><path stroke="#17191C" strokeMiterlimit={10} strokeWidth={1.5} d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z" /></svg>;
-const ForwardRef = forwardRef(AvalancheAvax);
+const ForwardRef = /* @__PURE__ */ forwardRef(AvalancheAvax);
 export default ForwardRef;

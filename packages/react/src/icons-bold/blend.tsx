@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const BlendBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M21.97 12a6.005 6.005 0 0 1-8.12 5.614c-.318-.121-.377-.529-.155-.788A7.4 7.4 0 0 0 15.47 12a7.4 7.4 0 0 0-1.772-4.825c-.223-.26-.164-.669.155-.79A6.005 6.005 0 0 1 21.97 12" /><path fill="currentColor" d="M13.97 12c0 1.77-.77 3.37-2 4.46a5.93 5.93 0 0 1-4 1.54c-3.31 0-6-2.69-6-6s2.69-6 6-6c1.54 0 2.94.58 4 1.54 1.23 1.09 2 2.69 2 4.46" /></svg>;
-const ForwardRef = forwardRef(BlendBold);
+const ForwardRef = /* @__PURE__ */ forwardRef(BlendBold);
 export default ForwardRef;

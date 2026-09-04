@@ -2,5 +2,5 @@ import * as React from "react";
 import type { SVGProps } from "react";
 import { Ref, forwardRef } from "react";
 const Icon3dSquareBold = ({ size = 24, ...props }: SVGProps<SVGSVGElement> & { size?: number | string }, ref: Ref<SVGSVGElement>) => <svg width={size} height={size} fill="none" viewBox="0 0 24 24" ref={ref} {...props}><path fill="currentColor" d="M16.19 2.33H7.81C4.17 2.33 2 4.51 2 8.15v8.37c0 3.64 2.17 5.81 5.81 5.81h8.37c3.64 0 5.81-2.17 5.81-5.81V8.15c.01-3.64-2.16-5.82-5.8-5.82m-4.62 14.79c0 .3-.15.57-.41.73-.14.09-.29.13-.45.13q-.195 0-.39-.09l-3.5-1.75c-.5-.26-.82-.77-.82-1.34v-3.31a.867.867 0 0 1 1.25-.77l3.5 1.75c.51.26.83.77.83 1.34v3.31zm-.21-5.35L7.6 9.74a.87.87 0 0 1-.44-.77c0-.32.17-.62.44-.77l3.76-2.03c.4-.21.87-.21 1.27 0l3.76 2.03c.27.15.44.44.44.77s-.17.62-.44.77l-3.76 2.03c-.2.11-.42.16-.64.16s-.43-.05-.63-.16M18 14.8c0 .57-.32 1.09-.83 1.34l-3.5 1.75a.86.86 0 0 1-.39.09c-.16 0-.31-.04-.45-.13a.85.85 0 0 1-.41-.73v-3.31c0-.57.32-1.09.83-1.34l3.5-1.75a.867.867 0 0 1 1.25.77z" /></svg>;
-const ForwardRef = forwardRef(Icon3dSquareBold);
+const ForwardRef = /* @__PURE__ */ forwardRef(Icon3dSquareBold);
 export default ForwardRef;
